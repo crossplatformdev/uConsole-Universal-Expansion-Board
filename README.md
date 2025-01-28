@@ -31,10 +31,12 @@ This is designed to work with breakout boards, like these:
 
 
 ### How to use the board ###
-The intended use is to place the components in a way all the pins can be wired, and glue or solder them to the board. Then, you can draw traces of tin over the grid, like in this video:
+The intended use is to place the components in a way all the pins can be wired, and glue or solder them to the board. 
+Then, you can draw traces of tin over the grid, like in this video:
 https://www.youtube.com/watch?v=l9Kbr8cPqOE
 
-However, I strongly recomend to better use wires. Wires can be bent, and can cross, and is less harmful to the board. You can bend and cross the wires like Ben Eater does for his breadboard computer.
+However, I strongly recomend to better use wires. Wires can be bent, and them can cross also; and is less harmful to the board. 
+You can bend and cross the wires like Ben Eater does for his breadboard computer.
 ![Wiring_1](https://github.com/crossplatformdev/uConsole-Universal-Expansion-Board/blob/main/wiring_example/be1.png)
 ![Wiring_2](https://github.com/crossplatformdev/uConsole-Universal-Expansion-Board/blob/main/wiring_example/be2.png)
 ![Wiring_3](https://github.com/crossplatformdev/uConsole-Universal-Expansion-Board/blob/main/wiring_example/be1.png)
