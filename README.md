@@ -18,7 +18,7 @@ This is designed to work with breakout boards, like these:
 | :---:                              | :---:                                         |
 | USB - Anything                     | ![All_types](https://github.com/crossplatformdev/uConsole-Universal-Expansion-Board/blob/main/components/usb-all-types.png)        |
 | USB-A                              | ![USB-A](https://github.com/crossplatformdev/uConsole-Universal-Expansion-Board/blob/main/components/usb-a.png)                    |
-| USB-C                              | ![USB-B](https://github.com/crossplatformdev/uConsole-Universal-Expansion-Board/blob/main/components/usb-b.png)                    |
+| USB-B                              | ![USB-B](https://github.com/crossplatformdev/uConsole-Universal-Expansion-Board/blob/main/components/usb-b.jpg)                    |
 | USB-C                              | ![USB-C](https://github.com/crossplatformdev/uConsole-Universal-Expansion-Board/blob/main/components/usb-c.png)                    |
 | RP2040                             | ![RP2040](https://github.com/crossplatformdev/uConsole-Universal-Expansion-Board/blob/main/components/rp2040-zero.jpg)             |
 | ESP32                              | ![ESP32](https://github.com/crossplatformdev/uConsole-Universal-Expansion-Board/blob/main/components/esp32.jpg)                    |
