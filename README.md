@@ -9,7 +9,7 @@ This is a breakout board for the expansion board connector of the ClockworkPi uC
 | Schematic       | https://github.com/crossplatformdev/uConsole-Universal-Expansion-Board/blob/main/documents/schematic.pdf |
 | Exported files* | https://github.com/crossplatformdev/uConsole-Universal-Expansion-Board/blob/main/export.zip              |
 
-****This is a WIP.*** I need to receive the first batch I ordered to test everything is correctly. You can help me verify this files in the meantime. Use with caution.
+****This is a WIP.*** I need to receive the first batch I ordered to test everything is correct. You can help me verify this files in the meantime. Use with caution.
 
 ### Examples of components you can mount on:
 This is designed to work with breakout boards, like these:
