@@ -1,0 +1,3357 @@
+## Footprint report - date 2025-01-31T11:07:22+0100
+## Created by KiCad version 8.0.4
+## Unit = mm, Angle = deg.
+
+$BeginDESCRIPTION
+
+$BOARD
+upper_left_corner 30.000000 39.110616
+lower_right_corner 151.661911 144.855000
+$EndBOARD
+
+$MODULE 
+footprint 
+attribut virtual
+position 106.846000 85.395000  orientation -90.00
+layer front
+$PAD "37"
+Shape Rect Layer front
+position  0.000000  0.000000  size  2.300000  0.600000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  
+
+$MODULE 
+footprint 
+attribut virtual
+position 99.646000 85.395000  orientation -90.00
+layer front
+$PAD "19"
+Shape Rect Layer front
+position  0.000000  0.000000  size  2.300000  0.600000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  
+
+$MODULE 
+footprint 
+attribut virtual
+position 111.646000 102.667000  orientation -90.00
+layer back
+$PAD "20"
+Shape Rect Layer front
+position  0.000000  0.000000  size  2.300000  0.600000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  
+
+$MODULE 
+footprint 
+attribut virtual
+position 100.446000 85.395000  orientation -90.00
+layer front
+$PAD "21"
+Shape Rect Layer front
+position  0.000000  0.000000  size  2.300000  0.600000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  
+
+$MODULE 
+footprint 
+attribut virtual
+position 108.446000 85.395000  orientation -90.00
+layer front
+$PAD "41"
+Shape Rect Layer front
+position  0.000000  0.000000  size  2.300000  0.600000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  
+
+$MODULE 
+footprint 
+attribut virtual
+position 98.857000 114.100000  orientation -90.00
+layer back
+$PAD "16"
+Shape Rect Layer front
+position  0.000000  0.000000  size  2.300000  0.600000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  
+
+$MODULE 
+footprint 
+attribut virtual
+position 102.846000 85.395000  orientation -90.00
+layer front
+$PAD "27"
+Shape Rect Layer front
+position  0.000000  0.000000  size  2.300000  0.600000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  
+
+$MODULE 
+footprint 
+attribut virtual
+position 102.046000 102.667000  orientation -90.00
+layer back
+$PAD "44"
+Shape Rect Layer front
+position  0.000000  0.000000  size  2.300000  0.600000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  
+
+$MODULE 
+footprint 
+attribut virtual
+position 102.846000 102.667000  orientation -90.00
+layer back
+$PAD "42"
+Shape Rect Layer front
+position  0.000000  0.000000  size  2.300000  0.600000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  
+
+$MODULE 
+footprint 
+attribut virtual
+position 110.846000 85.395000  orientation -90.00
+layer front
+$PAD "47"
+Shape Rect Layer front
+position  0.000000  0.000000  size  2.300000  0.600000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  
+
+$MODULE 
+footprint 
+attribut virtual
+position 101.246000 102.667000  orientation -90.00
+layer back
+$PAD "46"
+Shape Rect Layer front
+position  0.000000  0.000000  size  2.300000  0.600000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  
+
+$MODULE 
+footprint 
+attribut virtual
+position 100.457000 114.100000  orientation -90.00
+layer back
+$PAD "12"
+Shape Rect Layer front
+position  0.000000  0.000000  size  2.300000  0.600000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  
+
+$MODULE 
+footprint 
+attribut virtual
+position 83.871000 84.252000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  
+
+$MODULE 
+footprint 
+attribut virtual
+position 103.646000 102.667000  orientation -90.00
+layer back
+$PAD "40"
+Shape Rect Layer front
+position  0.000000  0.000000  size  2.300000  0.600000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  
+
+$MODULE 
+footprint 
+attribut virtual
+position 109.246000 85.395000  orientation -90.00
+layer front
+$PAD "43"
+Shape Rect Layer front
+position  0.000000  0.000000  size  2.300000  0.600000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  
+
+$MODULE 
+footprint 
+attribut virtual
+position 110.846000 102.667000  orientation -90.00
+layer back
+$PAD "22"
+Shape Rect Layer front
+position  0.000000  0.000000  size  2.300000  0.600000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  
+
+$MODULE 
+footprint 
+attribut virtual
+position 106.846000 102.667000  orientation -90.00
+layer back
+$PAD "32"
+Shape Rect Layer front
+position  0.000000  0.000000  size  2.300000  0.600000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  
+
+$MODULE 
+footprint 
+attribut virtual
+position 105.246000 102.667000  orientation -90.00
+layer back
+$PAD "36"
+Shape Rect Layer front
+position  0.000000  0.000000  size  2.300000  0.600000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  
+
+$MODULE 
+footprint 
+attribut virtual
+position 99.657000 114.100000  orientation -90.00
+layer back
+$PAD "14"
+Shape Rect Layer front
+position  0.000000  0.000000  size  2.300000  0.600000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  
+
+$MODULE 
+footprint 
+attribut virtual
+position 102.057000 114.100000  orientation -90.00
+layer back
+$PAD "8"
+Shape Rect Layer front
+position  0.000000  0.000000  size  2.300000  0.600000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  
+
+$MODULE 
+footprint 
+attribut virtual
+position 107.646000 102.667000  orientation -90.00
+layer back
+$PAD "30"
+Shape Rect Layer front
+position  0.000000  0.000000  size  2.300000  0.600000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  
+
+$MODULE 
+footprint 
+attribut virtual
+position 102.857000 114.100000  orientation -90.00
+layer back
+$PAD "6"
+Shape Rect Layer front
+position  0.000000  0.000000  size  2.300000  0.600000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  
+
+$MODULE 
+footprint 
+attribut virtual
+position 112.446000 102.667000  orientation -90.00
+layer back
+$PAD "18"
+Shape Rect Layer front
+position  0.000000  0.000000  size  2.300000  0.600000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  
+
+$MODULE 
+footprint 
+attribut virtual
+position 106.046000 102.667000  orientation -90.00
+layer back
+$PAD "34"
+Shape Rect Layer front
+position  0.000000  0.000000  size  2.300000  0.600000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  
+
+$MODULE 
+footprint 
+attribut virtual
+position 101.257000 114.100000  orientation -90.00
+layer back
+$PAD "10"
+Shape Rect Layer front
+position  0.000000  0.000000  size  2.300000  0.600000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  
+
+$MODULE 
+footprint 
+attribut virtual
+position 101.246000 85.395000  orientation -90.00
+layer front
+$PAD "23"
+Shape Rect Layer front
+position  0.000000  0.000000  size  2.300000  0.600000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  
+
+$MODULE 
+footprint 
+attribut virtual
+position 109.246000 102.667000  orientation -90.00
+layer back
+$PAD "26"
+Shape Rect Layer front
+position  0.000000  0.000000  size  2.300000  0.600000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  
+
+$MODULE 
+footprint 
+attribut virtual
+position 104.457000 114.100000  orientation -90.00
+layer back
+$PAD "2"
+Shape Rect Layer front
+position  0.000000  0.000000  size  2.300000  0.600000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  
+
+$MODULE 
+footprint 
+attribut virtual
+position 103.657000 114.100000  orientation -90.00
+layer back
+$PAD "4"
+Shape Rect Layer front
+position  0.000000  0.000000  size  2.300000  0.600000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  
+
+$MODULE 
+footprint 
+attribut virtual
+position 110.846000 114.097000  orientation 90.00
+layer front
+$PAD "5"
+Shape Rect Layer front
+position  0.000000  0.000000  size  2.300000  0.600000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  
+
+$MODULE 
+footprint 
+attribut virtual
+position 104.446000 102.667000  orientation -90.00
+layer back
+$PAD "38"
+Shape Rect Layer front
+position  0.000000  0.000000  size  2.300000  0.600000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  
+
+$MODULE 
+footprint 
+attribut virtual
+position 107.646000 114.097000  orientation 90.00
+layer front
+$PAD "13"
+Shape Rect Layer front
+position  0.000000  0.000000  size  2.300000  0.600000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  
+
+$MODULE 
+footprint 
+attribut virtual
+position 110.046000 102.667000  orientation -90.00
+layer back
+$PAD "24"
+Shape Rect Layer front
+position  0.000000  0.000000  size  2.300000  0.600000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  
+
+$MODULE 
+footprint 
+attribut virtual
+position 110.033000 114.097000  orientation -90.00
+layer front
+$PAD "7"
+Shape Rect Layer front
+position  0.000000  0.000000  size  2.300000  0.600000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  
+
+$MODULE 
+footprint 
+attribut virtual
+position 112.446000 85.395000  orientation -90.00
+layer front
+$PAD "51"
+Shape Rect Layer front
+position  0.000000  0.000000  size  2.300000  0.600000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  
+
+$MODULE 
+footprint 
+attribut virtual
+position 106.846000 114.097000  orientation 90.00
+layer front
+$PAD "15"
+Shape Rect Layer front
+position  0.000000  0.000000  size  2.300000  0.600000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  
+
+$MODULE 
+footprint 
+attribut virtual
+position 110.046000 85.395000  orientation -90.00
+layer front
+$PAD "45"
+Shape Rect Layer front
+position  0.000000  0.000000  size  2.300000  0.600000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  
+
+$MODULE 
+footprint 
+attribut virtual
+position 111.646000 85.395000  orientation -90.00
+layer front
+$PAD "49"
+Shape Rect Layer front
+position  0.000000  0.000000  size  2.300000  0.600000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  
+
+$MODULE 
+footprint 
+attribut virtual
+position 102.032000 85.395000  orientation 90.00
+layer front
+$PAD "25"
+Shape Rect Layer front
+position  0.000000  0.000000  size  2.300000  0.600000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  
+
+$MODULE 
+footprint 
+attribut virtual
+position 108.446000 102.667000  orientation -90.00
+layer back
+$PAD "28"
+Shape Rect Layer front
+position  0.000000  0.000000  size  2.300000  0.600000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  
+
+$MODULE 
+footprint 
+attribut virtual
+position 100.446000 102.667000  orientation -90.00
+layer back
+$PAD "48"
+Shape Rect Layer front
+position  0.000000  0.000000  size  2.300000  0.600000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  
+
+$MODULE 
+footprint 
+attribut virtual
+position 108.446000 114.097000  orientation 90.00
+layer front
+$PAD "11"
+Shape Rect Layer front
+position  0.000000  0.000000  size  2.300000  0.600000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  
+
+$MODULE 
+footprint 
+attribut virtual
+position 99.646000 102.667000  orientation -90.00
+layer back
+$PAD "50"
+Shape Rect Layer front
+position  0.000000  0.000000  size  2.300000  0.600000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  
+
+$MODULE 
+footprint 
+attribut virtual
+position 112.446000 114.097000  orientation 90.00
+layer front
+$PAD "1"
+Shape Rect Layer front
+position  0.000000  0.000000  size  2.300000  0.600000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  
+
+$MODULE 
+footprint 
+attribut virtual
+position 107.646000 85.395000  orientation -90.00
+layer front
+$PAD "39"
+Shape Rect Layer front
+position  0.000000  0.000000  size  2.300000  0.600000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  
+
+$MODULE 
+footprint 
+attribut virtual
+position 104.446000 85.395000  orientation -90.00
+layer front
+$PAD "31"
+Shape Rect Layer front
+position  0.000000  0.000000  size  2.300000  0.600000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  
+
+$MODULE 
+footprint 
+attribut virtual
+position 109.246000 114.097000  orientation 90.00
+layer front
+$PAD "9"
+Shape Rect Layer front
+position  0.000000  0.000000  size  2.300000  0.600000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  
+
+$MODULE 
+footprint 
+attribut virtual
+position 105.246000 85.395000  orientation -90.00
+layer front
+$PAD "33"
+Shape Rect Layer front
+position  0.000000  0.000000  size  2.300000  0.600000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  
+
+$MODULE 
+footprint 
+attribut virtual
+position 98.846000 85.395000  orientation -90.00
+layer front
+$PAD "17"
+Shape Rect Layer front
+position  0.000000  0.000000  size  2.300000  0.600000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  
+
+$MODULE 
+footprint 
+attribut virtual
+position 106.046000 85.395000  orientation -90.00
+layer front
+$PAD "35"
+Shape Rect Layer front
+position  0.000000  0.000000  size  2.300000  0.600000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  
+
+$MODULE 
+footprint 
+attribut virtual
+position 111.646000 114.097000  orientation 90.00
+layer front
+$PAD "3"
+Shape Rect Layer front
+position  0.000000  0.000000  size  2.300000  0.600000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  
+
+$MODULE 
+footprint 
+attribut virtual
+position 103.646000 85.395000  orientation -90.00
+layer front
+$PAD "29"
+Shape Rect Layer front
+position  0.000000  0.000000  size  2.300000  0.600000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  
+
+$MODULE 1
+footprint 
+attribut virtual
+position 86.411000 84.252000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  1
+
+$MODULE 2
+footprint 
+attribut virtual
+position 88.951000 84.252000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  2
+
+$MODULE 3
+footprint 
+attribut virtual
+position 91.491000 84.252000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  3
+
+$MODULE 4
+footprint 
+attribut virtual
+position 94.031000 84.252000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  4
+
+$MODULE 5
+footprint 
+attribut virtual
+position 96.571000 84.252000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  5
+
+$MODULE 5
+footprint 
+attribut virtual
+position 83.871000 119.939000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  5
+
+$MODULE 5
+footprint 
+attribut virtual
+position 83.871000 73.965000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  5
+
+$MODULE 6
+footprint 
+attribut virtual
+position 83.871000 86.792000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  6
+
+$MODULE 7
+footprint 
+attribut virtual
+position 86.411000 86.792000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  7
+
+$MODULE 8
+footprint 
+attribut virtual
+position 88.951000 86.792000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  8
+
+$MODULE 9
+footprint 
+attribut virtual
+position 91.491000 86.792000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  9
+
+$MODULE 10
+footprint 
+attribut virtual
+position 94.031000 86.792000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  10
+
+$MODULE 11
+footprint 
+attribut virtual
+position 96.571000 86.792000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  11
+
+$MODULE 12
+footprint 
+attribut virtual
+position 83.871000 89.332000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  12
+
+$MODULE 13
+footprint 
+attribut virtual
+position 86.411000 89.332000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  13
+
+$MODULE 14
+footprint 
+attribut virtual
+position 88.951000 89.332000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  14
+
+$MODULE 15
+footprint 
+attribut virtual
+position 91.491000 89.332000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  15
+
+$MODULE 16
+footprint 
+attribut virtual
+position 94.031000 89.332000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  16
+
+$MODULE 17
+footprint 
+attribut virtual
+position 96.571000 89.332000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  17
+
+$MODULE 18
+footprint 
+attribut virtual
+position 83.871000 91.872000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  18
+
+$MODULE 19
+footprint 
+attribut virtual
+position 86.411000 91.872000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  19
+
+$MODULE 20
+footprint 
+attribut virtual
+position 88.951000 91.872000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  20
+
+$MODULE 21
+footprint 
+attribut virtual
+position 91.491000 91.872000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  21
+
+$MODULE 22
+footprint 
+attribut virtual
+position 94.031000 91.872000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  22
+
+$MODULE 23
+footprint 
+attribut virtual
+position 96.571000 91.872000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  23
+
+$MODULE 24
+footprint 
+attribut virtual
+position 83.871000 94.412000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  24
+
+$MODULE 25
+footprint 
+attribut virtual
+position 86.411000 94.412000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  25
+
+$MODULE 26
+footprint 
+attribut virtual
+position 88.951000 94.412000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  26
+
+$MODULE 27
+footprint 
+attribut virtual
+position 91.491000 94.412000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  27
+
+$MODULE 28
+footprint 
+attribut virtual
+position 94.031000 94.412000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  28
+
+$MODULE 29
+footprint 
+attribut virtual
+position 96.571000 94.412000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  29
+
+$MODULE 30
+footprint 
+attribut virtual
+position 83.871000 96.952000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  30
+
+$MODULE 31
+footprint 
+attribut virtual
+position 86.411000 96.952000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  31
+
+$MODULE 32
+footprint 
+attribut virtual
+position 88.951000 96.952000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  32
+
+$MODULE 33
+footprint 
+attribut virtual
+position 91.491000 96.952000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  33
+
+$MODULE 34
+footprint 
+attribut virtual
+position 94.031000 96.952000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  34
+
+$MODULE 35
+footprint 
+attribut virtual
+position 96.571000 96.952000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  35
+
+$MODULE 36
+footprint 
+attribut virtual
+position 83.871000 99.492000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  36
+
+$MODULE 37
+footprint 
+attribut virtual
+position 86.411000 99.492000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  37
+
+$MODULE 38
+footprint 
+attribut virtual
+position 88.951000 99.492000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  38
+
+$MODULE 39
+footprint 
+attribut virtual
+position 91.491000 99.492000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  39
+
+$MODULE 40
+footprint 
+attribut virtual
+position 94.031000 99.492000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  40
+
+$MODULE 41
+footprint 
+attribut virtual
+position 96.571000 99.492000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  41
+
+$MODULE 42
+footprint 
+attribut virtual
+position 83.871000 102.032000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  42
+
+$MODULE 43
+footprint 
+attribut virtual
+position 86.411000 102.032000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  43
+
+$MODULE 44
+footprint 
+attribut virtual
+position 88.951000 102.032000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  44
+
+$MODULE 45
+footprint 
+attribut virtual
+position 91.491000 102.032000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  45
+
+$MODULE 46
+footprint 
+attribut virtual
+position 94.031000 102.032000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  46
+
+$MODULE 47
+footprint 
+attribut virtual
+position 96.571000 102.032000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  47
+
+$MODULE 48
+footprint 
+attribut virtual
+position 83.871000 104.572000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  48
+
+$MODULE 49
+footprint 
+attribut virtual
+position 86.411000 104.572000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  49
+
+$MODULE 50
+footprint 
+attribut virtual
+position 88.951000 104.572000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  50
+
+$MODULE 51
+footprint 
+attribut virtual
+position 91.491000 104.572000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  51
+
+$MODULE 52
+footprint 
+attribut virtual
+position 94.031000 104.572000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  52
+
+$MODULE 53
+footprint 
+attribut virtual
+position 96.571000 104.572000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  53
+
+$MODULE 54
+footprint 
+attribut virtual
+position 83.871000 107.112000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  54
+
+$MODULE 55
+footprint 
+attribut virtual
+position 86.411000 107.112000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  55
+
+$MODULE 56
+footprint 
+attribut virtual
+position 88.951000 107.112000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  56
+
+$MODULE 57
+footprint 
+attribut virtual
+position 91.491000 107.112000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  57
+
+$MODULE 58
+footprint 
+attribut virtual
+position 94.031000 107.112000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  58
+
+$MODULE 59
+footprint 
+attribut virtual
+position 96.571000 107.112000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  59
+
+$MODULE 60
+footprint 
+attribut virtual
+position 83.871000 109.652000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  60
+
+$MODULE 61
+footprint 
+attribut virtual
+position 86.411000 109.652000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  61
+
+$MODULE 62
+footprint 
+attribut virtual
+position 88.951000 109.652000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  62
+
+$MODULE 63
+footprint 
+attribut virtual
+position 91.491000 109.652000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  63
+
+$MODULE 64
+footprint 
+attribut virtual
+position 94.031000 109.652000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  64
+
+$MODULE 65
+footprint 
+attribut virtual
+position 96.571000 109.652000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  65
+
+$MODULE 66
+footprint 
+attribut virtual
+position 83.871000 112.192000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  66
+
+$MODULE 67
+footprint 
+attribut virtual
+position 86.411000 112.192000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  67
+
+$MODULE 68
+footprint 
+attribut virtual
+position 88.951000 112.192000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  68
+
+$MODULE 69
+footprint 
+attribut virtual
+position 91.491000 112.192000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  69
+
+$MODULE 70
+footprint 
+attribut virtual
+position 94.031000 112.192000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  70
+
+$MODULE 71
+footprint 
+attribut virtual
+position 96.571000 112.192000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  71
+
+$MODULE 72
+footprint 
+attribut virtual
+position 83.871000 114.732000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  72
+
+$MODULE 73
+footprint 
+attribut virtual
+position 86.411000 114.732000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  73
+
+$MODULE 74
+footprint 
+attribut virtual
+position 88.951000 114.732000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  74
+
+$MODULE 75
+footprint 
+attribut virtual
+position 91.491000 114.732000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  75
+
+$MODULE 76
+footprint 
+attribut virtual
+position 94.031000 114.732000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  76
+
+$MODULE 77
+footprint 
+attribut virtual
+position 96.571000 114.732000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  77
+
+$MODULE 78
+footprint 
+attribut virtual
+position 83.871000 117.272000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  78
+
+$MODULE 79
+footprint 
+attribut virtual
+position 86.411000 117.272000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  79
+
+$MODULE 80
+footprint 
+attribut virtual
+position 88.951000 117.272000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  80
+
+$MODULE 81
+footprint 
+attribut virtual
+position 91.491000 117.272000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  81
+
+$MODULE 82
+footprint 
+attribut virtual
+position 94.031000 117.272000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  82
+
+$MODULE 83
+footprint 
+attribut virtual
+position 96.571000 117.272000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  83
+
+$MODULE 84
+footprint 
+attribut virtual
+position 86.411000 73.965000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  84
+
+$MODULE 84
+footprint 
+attribut virtual
+position 86.411000 119.939000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  84
+
+$MODULE 85
+footprint 
+attribut virtual
+position 88.951000 119.939000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  85
+
+$MODULE 85
+footprint 
+attribut virtual
+position 88.951000 73.965000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  85
+
+$MODULE 86
+footprint 
+attribut virtual
+position 91.491000 73.965000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  86
+
+$MODULE 86
+footprint 
+attribut virtual
+position 91.491000 119.939000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  86
+
+$MODULE 87
+footprint 
+attribut virtual
+position 94.031000 119.939000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  87
+
+$MODULE 87
+footprint 
+attribut virtual
+position 94.031000 73.965000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  87
+
+$MODULE 88
+footprint 
+attribut virtual
+position 96.571000 119.939000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  88
+
+$MODULE 88
+footprint 
+attribut virtual
+position 96.571000 73.965000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  88
+
+$MODULE 89
+footprint 
+attribut virtual
+position 99.111000 73.965000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  89
+
+$MODULE 89
+footprint 
+attribut virtual
+position 99.111000 119.939000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  89
+
+$MODULE 90
+footprint 
+attribut virtual
+position 101.651000 73.965000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  90
+
+$MODULE 90
+footprint 
+attribut virtual
+position 101.651000 119.939000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  90
+
+$MODULE 91
+footprint 
+attribut virtual
+position 104.191000 73.965000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  91
+
+$MODULE 91
+footprint 
+attribut virtual
+position 104.191000 119.939000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  91
+
+$MODULE 92
+footprint 
+attribut virtual
+position 106.731000 73.965000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  92
+
+$MODULE 92
+footprint 
+attribut virtual
+position 106.731000 119.939000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  92
+
+$MODULE 93
+footprint 
+attribut virtual
+position 109.271000 119.939000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  93
+
+$MODULE 93
+footprint 
+attribut virtual
+position 109.271000 73.965000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  93
+
+$MODULE 94
+footprint 
+attribut virtual
+position 111.811000 119.939000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  94
+
+$MODULE 94
+footprint 
+attribut virtual
+position 111.811000 73.965000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  94
+
+$MODULE 95
+footprint 
+attribut virtual
+position 83.871000 76.505000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  95
+
+$MODULE 95
+footprint 
+attribut virtual
+position 83.871000 122.479000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  95
+
+$MODULE 96
+footprint 
+attribut virtual
+position 86.411000 76.505000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  96
+
+$MODULE 96
+footprint 
+attribut virtual
+position 86.411000 122.479000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  96
+
+$MODULE 97
+footprint 
+attribut virtual
+position 88.951000 122.479000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  97
+
+$MODULE 97
+footprint 
+attribut virtual
+position 88.951000 76.505000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  97
+
+$MODULE 98
+footprint 
+attribut virtual
+position 91.491000 76.505000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  98
+
+$MODULE 98
+footprint 
+attribut virtual
+position 91.491000 122.479000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  98
+
+$MODULE 99
+footprint 
+attribut virtual
+position 94.031000 76.505000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  99
+
+$MODULE 99
+footprint 
+attribut virtual
+position 94.031000 122.479000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  99
+
+$MODULE 100
+footprint 
+attribut virtual
+position 96.571000 76.505000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  100
+
+$MODULE 100
+footprint 
+attribut virtual
+position 96.571000 122.479000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  100
+
+$MODULE 101
+footprint 
+attribut virtual
+position 99.111000 76.505000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  101
+
+$MODULE 101
+footprint 
+attribut virtual
+position 99.111000 122.479000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  101
+
+$MODULE 102
+footprint 
+attribut virtual
+position 101.651000 122.479000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  102
+
+$MODULE 102
+footprint 
+attribut virtual
+position 101.651000 76.505000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  102
+
+$MODULE 103
+footprint 
+attribut virtual
+position 104.191000 122.479000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  103
+
+$MODULE 103
+footprint 
+attribut virtual
+position 104.191000 76.505000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  103
+
+$MODULE 104
+footprint 
+attribut virtual
+position 106.731000 122.479000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  104
+
+$MODULE 104
+footprint 
+attribut virtual
+position 106.731000 76.505000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  104
+
+$MODULE 105
+footprint 
+attribut virtual
+position 109.271000 122.479000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  105
+
+$MODULE 105
+footprint 
+attribut virtual
+position 109.271000 76.505000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  105
+
+$MODULE 106
+footprint 
+attribut virtual
+position 111.811000 76.505000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  106
+
+$MODULE 106
+footprint 
+attribut virtual
+position 111.811000 122.479000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  106
+
+$MODULE 107
+footprint 
+attribut virtual
+position 83.871000 79.045000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  107
+
+$MODULE 107
+footprint 
+attribut virtual
+position 83.871000 125.019000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  107
+
+$MODULE 108
+footprint 
+attribut virtual
+position 86.411000 125.019000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  108
+
+$MODULE 108
+footprint 
+attribut virtual
+position 86.411000 79.045000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  108
+
+$MODULE 109
+footprint 
+attribut virtual
+position 88.951000 125.019000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  109
+
+$MODULE 109
+footprint 
+attribut virtual
+position 88.951000 79.045000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  109
+
+$MODULE 110
+footprint 
+attribut virtual
+position 91.491000 79.045000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  110
+
+$MODULE 110
+footprint 
+attribut virtual
+position 91.491000 125.019000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  110
+
+$MODULE 111
+footprint 
+attribut virtual
+position 94.031000 79.045000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  111
+
+$MODULE 111
+footprint 
+attribut virtual
+position 94.031000 125.019000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  111
+
+$MODULE 112
+footprint 
+attribut virtual
+position 96.571000 125.019000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  112
+
+$MODULE 112
+footprint 
+attribut virtual
+position 96.571000 79.045000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  112
+
+$MODULE 113
+footprint 
+attribut virtual
+position 99.111000 79.045000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  113
+
+$MODULE 113
+footprint 
+attribut virtual
+position 99.111000 125.019000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  113
+
+$MODULE 114
+footprint 
+attribut virtual
+position 101.651000 79.045000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  114
+
+$MODULE 114
+footprint 
+attribut virtual
+position 101.651000 125.019000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  114
+
+$MODULE 115
+footprint 
+attribut virtual
+position 104.191000 79.045000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  115
+
+$MODULE 115
+footprint 
+attribut virtual
+position 104.191000 125.019000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  115
+
+$MODULE 116
+footprint 
+attribut virtual
+position 106.731000 125.019000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  116
+
+$MODULE 116
+footprint 
+attribut virtual
+position 106.731000 79.045000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  116
+
+$MODULE 117
+footprint 
+attribut virtual
+position 109.271000 79.045000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  117
+
+$MODULE 117
+footprint 
+attribut virtual
+position 109.271000 125.019000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  117
+
+$MODULE 118
+footprint 
+attribut virtual
+position 111.811000 125.019000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  118
+
+$MODULE 118
+footprint 
+attribut virtual
+position 111.811000 79.045000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  118
+
+$MODULE 119
+footprint 
+attribut virtual
+position 99.111000 117.399000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  119
+
+$MODULE 119
+footprint 
+attribut virtual
+position 83.871000 81.585000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  119
+
+$MODULE 120
+footprint 
+attribut virtual
+position 86.411000 81.585000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  120
+
+$MODULE 120
+footprint 
+attribut virtual
+position 101.651000 117.399000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  120
+
+$MODULE 121
+footprint 
+attribut virtual
+position 88.951000 81.585000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  121
+
+$MODULE 121
+footprint 
+attribut virtual
+position 104.191000 117.399000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  121
+
+$MODULE 122
+footprint 
+attribut virtual
+position 91.491000 81.585000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  122
+
+$MODULE 122
+footprint 
+attribut virtual
+position 106.731000 117.399000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  122
+
+$MODULE 123
+footprint 
+attribut virtual
+position 109.271000 117.399000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  123
+
+$MODULE 123
+footprint 
+attribut virtual
+position 94.031000 81.585000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  123
+
+$MODULE 124
+footprint 
+attribut virtual
+position 96.571000 81.585000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  124
+
+$MODULE 124
+footprint 
+attribut virtual
+position 111.811000 117.399000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  124
+
+$MODULE 125
+footprint 
+attribut virtual
+position 99.111000 81.585000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  125
+
+$MODULE 126
+footprint 
+attribut virtual
+position 101.651000 81.585000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  126
+
+$MODULE 127
+footprint 
+attribut virtual
+position 104.191000 81.585000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  127
+
+$MODULE 128
+footprint 
+attribut virtual
+position 106.731000 81.585000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  128
+
+$MODULE 129
+footprint 
+attribut virtual
+position 109.271000 81.585000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  129
+
+$MODULE 130
+footprint 
+attribut virtual
+position 111.811000 81.585000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  130
+
+$MODULE GPIO45
+footprint 
+attribut virtual
+position 98.846000 102.667000  orientation -90.00
+layer back
+$PAD "52"
+Shape Rect Layer front
+position  0.000000  0.000000  size  2.300000  0.600000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  GPIO45
+
+$MODULE H1
+footprint MountingHole:MountingHole_5mm
+attribut virtual
+position 89.128800 67.488000  orientation 90.00
+layer front
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  5.000000  5.000000  orientation 0.00
+drill  5.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  H1
+
+$MODULE H2
+footprint MountingHole:MountingHole_5mm
+attribut virtual
+position 89.115000 132.500000  orientation 0.00
+layer front
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  5.000000  5.000000  orientation 0.00
+drill  5.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  H2
+
+$MODULE U1
+footprint uconsole:edge-minipcie
+attribut smd
+position 115.990000 100.000000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer front
+position  0.495000 11.780000  size  2.300000  0.600000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer back
+position  0.495000 11.380000  size  2.300000  0.600000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Rect Layer front
+position  0.495000 10.980000  size  2.300000  0.600000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "4"
+Shape Rect Layer back
+position  0.495000 10.580000  size  2.300000  0.600000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "5"
+Shape Rect Layer front
+position  0.495000 10.180000  size  2.300000  0.600000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "6"
+Shape Rect Layer back
+position  0.495000  9.780000  size  2.300000  0.600000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "7"
+Shape Rect Layer front
+position  0.495000  9.380000  size  2.300000  0.600000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "8"
+Shape Rect Layer back
+position  0.495000  8.980000  size  2.300000  0.600000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "9"
+Shape Rect Layer front
+position  0.495000  8.580000  size  2.300000  0.600000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "10"
+Shape Rect Layer back
+position  0.495000  8.180000  size  2.300000  0.600000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "11"
+Shape Rect Layer front
+position  0.495000  7.780000  size  2.300000  0.600000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "12"
+Shape Rect Layer back
+position  0.495000  7.380000  size  2.300000  0.600000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "13"
+Shape Rect Layer front
+position  0.495000  6.980000  size  2.300000  0.600000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "14"
+Shape Rect Layer back
+position  0.495000  6.580000  size  2.300000  0.600000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "15"
+Shape Rect Layer front
+position  0.495000  6.180000  size  2.300000  0.600000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "16"
+Shape Rect Layer back
+position  0.495000  5.780000  size  2.300000  0.600000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "17"
+Shape Rect Layer front
+position  0.495000  2.180000  size  2.300000  0.600000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "18"
+Shape Rect Layer back
+position  0.495000  1.780000  size  2.300000  0.600000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "19"
+Shape Rect Layer front
+position  0.495000  1.380000  size  2.300000  0.600000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "20"
+Shape Rect Layer back
+position  0.495000  0.980000  size  2.300000  0.600000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "21"
+Shape Rect Layer front
+position  0.495000  0.580000  size  2.300000  0.600000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "22"
+Shape Rect Layer back
+position  0.495000  0.180000  size  2.300000  0.600000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "23"
+Shape Rect Layer front
+position  0.495000 -0.220000  size  2.300000  0.600000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "24"
+Shape Rect Layer back
+position  0.495000 -0.620000  size  2.300000  0.600000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "25"
+Shape Rect Layer front
+position  0.495000 -1.020000  size  2.300000  0.600000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "26"
+Shape Rect Layer back
+position  0.495000 -1.420000  size  2.300000  0.600000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "27"
+Shape Rect Layer front
+position  0.495000 -1.820000  size  2.300000  0.600000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "28"
+Shape Rect Layer back
+position  0.495000 -2.220000  size  2.300000  0.600000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "29"
+Shape Rect Layer front
+position  0.495000 -2.620000  size  2.300000  0.600000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "30"
+Shape Rect Layer back
+position  0.495000 -3.020000  size  2.300000  0.600000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "31"
+Shape Rect Layer front
+position  0.495000 -3.420000  size  2.300000  0.600000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "32"
+Shape Rect Layer back
+position  0.495000 -3.820000  size  2.300000  0.600000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "33"
+Shape Rect Layer front
+position  0.495000 -4.220000  size  2.300000  0.600000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "34"
+Shape Rect Layer back
+position  0.495000 -4.620000  size  2.300000  0.600000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "35"
+Shape Rect Layer front
+position  0.495000 -5.020000  size  2.300000  0.600000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "36"
+Shape Rect Layer back
+position  0.495000 -5.420000  size  2.300000  0.600000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "37"
+Shape Rect Layer front
+position  0.495000 -5.820000  size  2.300000  0.600000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "38"
+Shape Rect Layer back
+position  0.495000 -6.220000  size  2.300000  0.600000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "39"
+Shape Rect Layer front
+position  0.495000 -6.620000  size  2.300000  0.600000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "40"
+Shape Rect Layer back
+position  0.495000 -7.020000  size  2.300000  0.600000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "41"
+Shape Rect Layer front
+position  0.495000 -7.420000  size  2.300000  0.600000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "42"
+Shape Rect Layer back
+position  0.495000 -7.820000  size  2.300000  0.600000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "43"
+Shape Rect Layer front
+position  0.495000 -8.220000  size  2.300000  0.600000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "44"
+Shape Rect Layer back
+position  0.495000 -8.620000  size  2.300000  0.600000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "45"
+Shape Rect Layer front
+position  0.495000 -9.020000  size  2.300000  0.600000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "46"
+Shape Rect Layer back
+position  0.495000 -9.420000  size  2.300000  0.600000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "47"
+Shape Rect Layer front
+position  0.495000 -9.820000  size  2.300000  0.600000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "48"
+Shape Rect Layer back
+position  0.495000 -10.220000  size  2.300000  0.600000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "49"
+Shape Rect Layer front
+position  0.495000 -10.620000  size  2.300000  0.600000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "50"
+Shape Rect Layer back
+position  0.495000 -11.020000  size  2.300000  0.600000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "51"
+Shape Rect Layer front
+position  0.495000 -11.420000  size  2.300000  0.600000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "52"
+Shape Rect Layer back
+position  0.495000 -11.820000  size  2.300000  0.600000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  U1
+
+$MODULE U2
+footprint uconsole:speaker pads
+attribut smd
+position 102.580000 67.500000  orientation 180.00
+layer back
+$PAD "1"
+Shape Roundrect Layer back
+position -7.385000  1.500000  size  1.000000  2.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Roundrect Layer back
+position -7.385000 -1.500000  size  1.000000  2.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Roundrect Layer back
+position  7.385000 -1.500000  size  1.000000  2.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "4"
+Shape Roundrect Layer back
+position  7.385000  1.500000  size  1.000000  2.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  U2
+
+$MODULE U3
+footprint uconsole:speaker pads
+attribut smd
+position 102.580000 132.500000  orientation 180.00
+layer back
+$PAD "1"
+Shape Roundrect Layer back
+position -7.385000  1.500000  size  1.000000  2.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Roundrect Layer back
+position -7.385000 -1.500000  size  1.000000  2.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Roundrect Layer back
+position  7.385000 -1.500000  size  1.000000  2.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "4"
+Shape Roundrect Layer back
+position  7.385000  1.500000  size  1.000000  2.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  U3
+
+$EndDESCRIPTION
