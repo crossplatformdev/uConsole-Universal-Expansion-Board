@@ -12,6 +12,5 @@
 | Super Mini USB 2.0 Microphone MIC Audio Adapter Portable Studio Speech Driver Free for Laptop/Notebook/PC/MSN/Skype              | https://vi.aliexpress.com/item/1005007548859483.html   |
 | RTL SDR USB 2.0 Software FM Radio DVB-T RTL2832U+ FC0012 SDR Digital TV Receiver Stick                                           | https://vi.aliexpress.com/item/1005005952200929.html   |
 | Kawau Micro SD Card Reader 2.0 USB High Speed Adapter with TF Card Slot C286 Max Support 128GB Memory Card Reader (cheap)        | https://vi.aliexpress.com/item/32881754388.html        |
-| Kebidumei Mini Card Reader Super Speed USB 2.0 Mini SD/SDXC TF Card Reader Adapter High Quality Card Reader For Computer (small) | https://vi.aliexpress.com/item/4000124265466.html
-| 130Pcs 24AWG Breadboard Jumper Wire Cable Kit Tin-Plated PCB Solder Cable Flexible PVC Electronic Wire 5cm 8cm 10cm 6 Colors     |
-https://vi.aliexpress.com/item/1005006427520687.html?spm=a2g0o.order_list.order_list_main.42.21ef194dbdtzJs&gatewayAdapt=glo2vnm
+| Kebidumei Mini Card Reader Super Speed USB 2.0 Mini SD/SDXC TF Card Reader Adapter High Quality Card Reader For Computer (small) | https://vi.aliexpress.com/item/4000124265466.html      |
+| 130Pcs 24AWG Breadboard Jumper Wire Cable Kit Tin-Plated PCB Solder Cable Flexible PVC Electronic Wire 5cm 8cm 10cm 6 Colors     | https://vi.aliexpress.com/item/1005006427520687.html   |
