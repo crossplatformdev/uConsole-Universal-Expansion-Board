@@ -33,14 +33,16 @@ This is designed to work with breakout boards, like these:
 ### How to use the board ###
 The intended use is to place the components in a way all the pins can be wired, and glue or solder them to the board. 
 Then, you can draw traces of tin over the grid, like in this video:
-https://www.youtube.com/watch?v=l9Kbr8cPqOE
 
-However, I strongly recomend to better use wires. Wires can be bent, and them can cross also; and is less harmful to the board. 
-You can bend and cross the wires like Ben Eater does for his breadboard computer.
-![Wiring_1](https://github.com/crossplatformdev/uConsole-Universal-Expansion-Board/blob/main/wiring_example/be1.png)
-![Wiring_2](https://github.com/crossplatformdev/uConsole-Universal-Expansion-Board/blob/main/wiring_example/be2.png)
-![Wiring_3](https://github.com/crossplatformdev/uConsole-Universal-Expansion-Board/blob/main/wiring_example/be1.png)
+However, I strongly recomend to better use wires. Wires can be bent, and them can cross also; and is less harmful to the board. You can bend and cross the wires like Ben Eater does for his breadboard computer.
 
+| Example          | Video or Picture |
+|------------------|------------------|
+|Ben Eater's       |  ![Wiring_1](https://github.com/crossplatformdev/uConsole-Universal-Expansion-Board/blob/main/wiring_example/be1.png)  |
+|Breadboard        |  ![Wiring_2](https://github.com/crossplatformdev/uConsole-Universal-Expansion-Board/blob/main/wiring_example/be2.png)  |
+|Computer          |  ![Wiring_3](https://github.com/crossplatformdev/uConsole-Universal-Expansion-Board/blob/main/wiring_example/be1.png)  |
+|Recommmended Way  |  [![Tight_Wires](https://i.ytimg.com/vi/3qbz26m9SPA/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGADYAQHiAQoIGBACGAY4AUAB8AEB-AHOBYACgAqKAgwIABABGH8gQigTMA8=&rs=AOn4CLD02a_B2NwB106WA3VJVgqC7si3XQ)](https://www.youtube.com/shorts/3qbz26m9SPA_"Tight_Wiring") |
+|Simplest way      |  [![Solder_Grid](https://i.ytimg.com/vi/l9Kbr8cPqOE/hqdefault.jpg)](https://www.youtube.com/watch?v=l9Kbr8cPqOE_"Solder_Grid")  |
 
 ### Example Recipes ###
 - 2xUSB-C, 2xUSB-A (1 internal), USB2emmc (internal), Radxa emmc module.
@@ -53,3 +55,4 @@ You can bend and cross the wires like Ben Eater does for his breadboard computer
 - You can try to replicate an existing expansion board with breakout boards with this!
 
 (TODO) (First I need to receive the first batch. Star this repo to keep updated)
+||
