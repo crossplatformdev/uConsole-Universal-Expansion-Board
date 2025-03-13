@@ -1,4 +1,4 @@
-## Footprint report - date 2025-01-31T11:07:22+0100
+## Footprint report - date 2025-03-13T20:50:23+0100
 ## Created by KiCad version 8.0.4
 ## Unit = mm, Angle = deg.
 
@@ -12,11 +12,11 @@ $EndBOARD
 $MODULE 
 footprint 
 attribut virtual
-position 106.846000 85.395000  orientation -90.00
+position 100.000000 114.224000  orientation 0.00
 layer front
-$PAD "37"
+$PAD "1"
 Shape Rect Layer front
-position  0.000000  0.000000  size  2.300000  0.600000  orientation 360.00
+position  0.000000  0.000000  size  1.000000  1.000000  orientation 0.00
 drill  0.000000
 shape_offset  0.000000  0.000000
 $EndPAD
@@ -25,11 +25,11 @@ $EndMODULE
 $MODULE 
 footprint 
 attribut virtual
-position 99.646000 85.395000  orientation -90.00
+position 106.631000 112.678000  orientation 0.00
 layer front
-$PAD "19"
+$PAD "1"
 Shape Rect Layer front
-position  0.000000  0.000000  size  2.300000  0.600000  orientation 360.00
+position  0.000000  0.000000  size  1.000000  1.000000  orientation 0.00
 drill  0.000000
 shape_offset  0.000000  0.000000
 $EndPAD
@@ -38,24 +38,11 @@ $EndMODULE
 $MODULE 
 footprint 
 attribut virtual
-position 111.646000 102.667000  orientation -90.00
-layer back
-$PAD "20"
-Shape Rect Layer front
-position  0.000000  0.000000  size  2.300000  0.600000  orientation 360.00
-drill  0.000000
-shape_offset  0.000000  0.000000
-$EndPAD
-$EndMODULE  
-
-$MODULE 
-footprint 
-attribut virtual
-position 100.446000 85.395000  orientation -90.00
+position 109.525000 114.224000  orientation 0.00
 layer front
-$PAD "21"
+$PAD "1"
 Shape Rect Layer front
-position  0.000000  0.000000  size  2.300000  0.600000  orientation 360.00
+position  0.000000  0.000000  size  1.000000  1.000000  orientation 0.00
 drill  0.000000
 shape_offset  0.000000  0.000000
 $EndPAD
@@ -64,11 +51,11 @@ $EndMODULE
 $MODULE 
 footprint 
 attribut virtual
-position 108.446000 85.395000  orientation -90.00
+position 99.011000 112.678000  orientation 0.00
 layer front
-$PAD "41"
+$PAD "1"
 Shape Rect Layer front
-position  0.000000  0.000000  size  2.300000  0.600000  orientation 360.00
+position  0.000000  0.000000  size  1.000000  1.000000  orientation 0.00
 drill  0.000000
 shape_offset  0.000000  0.000000
 $EndPAD
@@ -77,24 +64,11 @@ $EndMODULE
 $MODULE 
 footprint 
 attribut virtual
-position 98.857000 114.100000  orientation -90.00
-layer back
-$PAD "16"
-Shape Rect Layer front
-position  0.000000  0.000000  size  2.300000  0.600000  orientation 360.00
-drill  0.000000
-shape_offset  0.000000  0.000000
-$EndPAD
-$EndMODULE  
-
-$MODULE 
-footprint 
-attribut virtual
-position 102.846000 85.395000  orientation -90.00
+position 113.335000 114.224000  orientation 0.00
 layer front
-$PAD "27"
+$PAD "1"
 Shape Rect Layer front
-position  0.000000  0.000000  size  2.300000  0.600000  orientation 360.00
+position  0.000000  0.000000  size  1.000000  1.000000  orientation 0.00
 drill  0.000000
 shape_offset  0.000000  0.000000
 $EndPAD
@@ -103,37 +77,11 @@ $EndMODULE
 $MODULE 
 footprint 
 attribut virtual
-position 102.046000 102.667000  orientation -90.00
-layer back
-$PAD "44"
-Shape Rect Layer front
-position  0.000000  0.000000  size  2.300000  0.600000  orientation 360.00
-drill  0.000000
-shape_offset  0.000000  0.000000
-$EndPAD
-$EndMODULE  
-
-$MODULE 
-footprint 
-attribut virtual
-position 102.846000 102.667000  orientation -90.00
-layer back
-$PAD "42"
-Shape Rect Layer front
-position  0.000000  0.000000  size  2.300000  0.600000  orientation 360.00
-drill  0.000000
-shape_offset  0.000000  0.000000
-$EndPAD
-$EndMODULE  
-
-$MODULE 
-footprint 
-attribut virtual
-position 110.846000 85.395000  orientation -90.00
+position 111.430000 114.224000  orientation 0.00
 layer front
-$PAD "47"
+$PAD "1"
 Shape Rect Layer front
-position  0.000000  0.000000  size  2.300000  0.600000  orientation 360.00
+position  0.000000  0.000000  size  1.000000  1.000000  orientation 0.00
 drill  0.000000
 shape_offset  0.000000  0.000000
 $EndPAD
@@ -142,33 +90,7 @@ $EndMODULE
 $MODULE 
 footprint 
 attribut virtual
-position 101.246000 102.667000  orientation -90.00
-layer back
-$PAD "46"
-Shape Rect Layer front
-position  0.000000  0.000000  size  2.300000  0.600000  orientation 360.00
-drill  0.000000
-shape_offset  0.000000  0.000000
-$EndPAD
-$EndMODULE  
-
-$MODULE 
-footprint 
-attribut virtual
-position 100.457000 114.100000  orientation -90.00
-layer back
-$PAD "12"
-Shape Rect Layer front
-position  0.000000  0.000000  size  2.300000  0.600000  orientation 360.00
-drill  0.000000
-shape_offset  0.000000  0.000000
-$EndPAD
-$EndMODULE  
-
-$MODULE 
-footprint 
-attribut virtual
-position 83.871000 84.252000  orientation 0.00
+position 83.810000 73.965000  orientation 0.00
 layer front
 $PAD "1"
 Shape Rect Layer both
@@ -181,401 +103,11 @@ $EndMODULE
 $MODULE 
 footprint 
 attribut virtual
-position 103.646000 102.667000  orientation -90.00
-layer back
-$PAD "40"
-Shape Rect Layer front
-position  0.000000  0.000000  size  2.300000  0.600000  orientation 360.00
-drill  0.000000
-shape_offset  0.000000  0.000000
-$EndPAD
-$EndMODULE  
-
-$MODULE 
-footprint 
-attribut virtual
-position 109.246000 85.395000  orientation -90.00
-layer front
-$PAD "43"
-Shape Rect Layer front
-position  0.000000  0.000000  size  2.300000  0.600000  orientation 360.00
-drill  0.000000
-shape_offset  0.000000  0.000000
-$EndPAD
-$EndMODULE  
-
-$MODULE 
-footprint 
-attribut virtual
-position 110.846000 102.667000  orientation -90.00
-layer back
-$PAD "22"
-Shape Rect Layer front
-position  0.000000  0.000000  size  2.300000  0.600000  orientation 360.00
-drill  0.000000
-shape_offset  0.000000  0.000000
-$EndPAD
-$EndMODULE  
-
-$MODULE 
-footprint 
-attribut virtual
-position 106.846000 102.667000  orientation -90.00
-layer back
-$PAD "32"
-Shape Rect Layer front
-position  0.000000  0.000000  size  2.300000  0.600000  orientation 360.00
-drill  0.000000
-shape_offset  0.000000  0.000000
-$EndPAD
-$EndMODULE  
-
-$MODULE 
-footprint 
-attribut virtual
-position 105.246000 102.667000  orientation -90.00
-layer back
-$PAD "36"
-Shape Rect Layer front
-position  0.000000  0.000000  size  2.300000  0.600000  orientation 360.00
-drill  0.000000
-shape_offset  0.000000  0.000000
-$EndPAD
-$EndMODULE  
-
-$MODULE 
-footprint 
-attribut virtual
-position 99.657000 114.100000  orientation -90.00
-layer back
-$PAD "14"
-Shape Rect Layer front
-position  0.000000  0.000000  size  2.300000  0.600000  orientation 360.00
-drill  0.000000
-shape_offset  0.000000  0.000000
-$EndPAD
-$EndMODULE  
-
-$MODULE 
-footprint 
-attribut virtual
-position 102.057000 114.100000  orientation -90.00
-layer back
-$PAD "8"
-Shape Rect Layer front
-position  0.000000  0.000000  size  2.300000  0.600000  orientation 360.00
-drill  0.000000
-shape_offset  0.000000  0.000000
-$EndPAD
-$EndMODULE  
-
-$MODULE 
-footprint 
-attribut virtual
-position 107.646000 102.667000  orientation -90.00
-layer back
-$PAD "30"
-Shape Rect Layer front
-position  0.000000  0.000000  size  2.300000  0.600000  orientation 360.00
-drill  0.000000
-shape_offset  0.000000  0.000000
-$EndPAD
-$EndMODULE  
-
-$MODULE 
-footprint 
-attribut virtual
-position 102.857000 114.100000  orientation -90.00
-layer back
-$PAD "6"
-Shape Rect Layer front
-position  0.000000  0.000000  size  2.300000  0.600000  orientation 360.00
-drill  0.000000
-shape_offset  0.000000  0.000000
-$EndPAD
-$EndMODULE  
-
-$MODULE 
-footprint 
-attribut virtual
-position 112.446000 102.667000  orientation -90.00
-layer back
-$PAD "18"
-Shape Rect Layer front
-position  0.000000  0.000000  size  2.300000  0.600000  orientation 360.00
-drill  0.000000
-shape_offset  0.000000  0.000000
-$EndPAD
-$EndMODULE  
-
-$MODULE 
-footprint 
-attribut virtual
-position 106.046000 102.667000  orientation -90.00
-layer back
-$PAD "34"
-Shape Rect Layer front
-position  0.000000  0.000000  size  2.300000  0.600000  orientation 360.00
-drill  0.000000
-shape_offset  0.000000  0.000000
-$EndPAD
-$EndMODULE  
-
-$MODULE 
-footprint 
-attribut virtual
-position 101.257000 114.100000  orientation -90.00
-layer back
-$PAD "10"
-Shape Rect Layer front
-position  0.000000  0.000000  size  2.300000  0.600000  orientation 360.00
-drill  0.000000
-shape_offset  0.000000  0.000000
-$EndPAD
-$EndMODULE  
-
-$MODULE 
-footprint 
-attribut virtual
-position 101.246000 85.395000  orientation -90.00
-layer front
-$PAD "23"
-Shape Rect Layer front
-position  0.000000  0.000000  size  2.300000  0.600000  orientation 360.00
-drill  0.000000
-shape_offset  0.000000  0.000000
-$EndPAD
-$EndMODULE  
-
-$MODULE 
-footprint 
-attribut virtual
-position 109.246000 102.667000  orientation -90.00
-layer back
-$PAD "26"
-Shape Rect Layer front
-position  0.000000  0.000000  size  2.300000  0.600000  orientation 360.00
-drill  0.000000
-shape_offset  0.000000  0.000000
-$EndPAD
-$EndMODULE  
-
-$MODULE 
-footprint 
-attribut virtual
-position 104.457000 114.100000  orientation -90.00
-layer back
-$PAD "2"
-Shape Rect Layer front
-position  0.000000  0.000000  size  2.300000  0.600000  orientation 360.00
-drill  0.000000
-shape_offset  0.000000  0.000000
-$EndPAD
-$EndMODULE  
-
-$MODULE 
-footprint 
-attribut virtual
-position 103.657000 114.100000  orientation -90.00
-layer back
-$PAD "4"
-Shape Rect Layer front
-position  0.000000  0.000000  size  2.300000  0.600000  orientation 360.00
-drill  0.000000
-shape_offset  0.000000  0.000000
-$EndPAD
-$EndMODULE  
-
-$MODULE 
-footprint 
-attribut virtual
-position 110.846000 114.097000  orientation 90.00
-layer front
-$PAD "5"
-Shape Rect Layer front
-position  0.000000  0.000000  size  2.300000  0.600000  orientation 0.00
-drill  0.000000
-shape_offset  0.000000  0.000000
-$EndPAD
-$EndMODULE  
-
-$MODULE 
-footprint 
-attribut virtual
-position 104.446000 102.667000  orientation -90.00
-layer back
-$PAD "38"
-Shape Rect Layer front
-position  0.000000  0.000000  size  2.300000  0.600000  orientation 360.00
-drill  0.000000
-shape_offset  0.000000  0.000000
-$EndPAD
-$EndMODULE  
-
-$MODULE 
-footprint 
-attribut virtual
-position 107.646000 114.097000  orientation 90.00
-layer front
-$PAD "13"
-Shape Rect Layer front
-position  0.000000  0.000000  size  2.300000  0.600000  orientation 0.00
-drill  0.000000
-shape_offset  0.000000  0.000000
-$EndPAD
-$EndMODULE  
-
-$MODULE 
-footprint 
-attribut virtual
-position 110.046000 102.667000  orientation -90.00
-layer back
-$PAD "24"
-Shape Rect Layer front
-position  0.000000  0.000000  size  2.300000  0.600000  orientation 360.00
-drill  0.000000
-shape_offset  0.000000  0.000000
-$EndPAD
-$EndMODULE  
-
-$MODULE 
-footprint 
-attribut virtual
-position 110.033000 114.097000  orientation -90.00
-layer front
-$PAD "7"
-Shape Rect Layer front
-position  0.000000  0.000000  size  2.300000  0.600000  orientation 360.00
-drill  0.000000
-shape_offset  0.000000  0.000000
-$EndPAD
-$EndMODULE  
-
-$MODULE 
-footprint 
-attribut virtual
-position 112.446000 85.395000  orientation -90.00
-layer front
-$PAD "51"
-Shape Rect Layer front
-position  0.000000  0.000000  size  2.300000  0.600000  orientation 360.00
-drill  0.000000
-shape_offset  0.000000  0.000000
-$EndPAD
-$EndMODULE  
-
-$MODULE 
-footprint 
-attribut virtual
-position 106.846000 114.097000  orientation 90.00
-layer front
-$PAD "15"
-Shape Rect Layer front
-position  0.000000  0.000000  size  2.300000  0.600000  orientation 0.00
-drill  0.000000
-shape_offset  0.000000  0.000000
-$EndPAD
-$EndMODULE  
-
-$MODULE 
-footprint 
-attribut virtual
-position 110.046000 85.395000  orientation -90.00
-layer front
-$PAD "45"
-Shape Rect Layer front
-position  0.000000  0.000000  size  2.300000  0.600000  orientation 360.00
-drill  0.000000
-shape_offset  0.000000  0.000000
-$EndPAD
-$EndMODULE  
-
-$MODULE 
-footprint 
-attribut virtual
-position 111.646000 85.395000  orientation -90.00
-layer front
-$PAD "49"
-Shape Rect Layer front
-position  0.000000  0.000000  size  2.300000  0.600000  orientation 360.00
-drill  0.000000
-shape_offset  0.000000  0.000000
-$EndPAD
-$EndMODULE  
-
-$MODULE 
-footprint 
-attribut virtual
-position 102.032000 85.395000  orientation 90.00
-layer front
-$PAD "25"
-Shape Rect Layer front
-position  0.000000  0.000000  size  2.300000  0.600000  orientation 0.00
-drill  0.000000
-shape_offset  0.000000  0.000000
-$EndPAD
-$EndMODULE  
-
-$MODULE 
-footprint 
-attribut virtual
-position 108.446000 102.667000  orientation -90.00
-layer back
-$PAD "28"
-Shape Rect Layer front
-position  0.000000  0.000000  size  2.300000  0.600000  orientation 360.00
-drill  0.000000
-shape_offset  0.000000  0.000000
-$EndPAD
-$EndMODULE  
-
-$MODULE 
-footprint 
-attribut virtual
-position 100.446000 102.667000  orientation -90.00
-layer back
-$PAD "48"
-Shape Rect Layer front
-position  0.000000  0.000000  size  2.300000  0.600000  orientation 360.00
-drill  0.000000
-shape_offset  0.000000  0.000000
-$EndPAD
-$EndMODULE  
-
-$MODULE 
-footprint 
-attribut virtual
-position 108.446000 114.097000  orientation 90.00
-layer front
-$PAD "11"
-Shape Rect Layer front
-position  0.000000  0.000000  size  2.300000  0.600000  orientation 0.00
-drill  0.000000
-shape_offset  0.000000  0.000000
-$EndPAD
-$EndMODULE  
-
-$MODULE 
-footprint 
-attribut virtual
-position 99.646000 102.667000  orientation -90.00
-layer back
-$PAD "50"
-Shape Rect Layer front
-position  0.000000  0.000000  size  2.300000  0.600000  orientation 360.00
-drill  0.000000
-shape_offset  0.000000  0.000000
-$EndPAD
-$EndMODULE  
-
-$MODULE 
-footprint 
-attribut virtual
-position 112.446000 114.097000  orientation 90.00
+position 102.821000 112.678000  orientation 0.00
 layer front
 $PAD "1"
 Shape Rect Layer front
-position  0.000000  0.000000  size  2.300000  0.600000  orientation 0.00
+position  0.000000  0.000000  size  1.000000  1.000000  orientation 0.00
 drill  0.000000
 shape_offset  0.000000  0.000000
 $EndPAD
@@ -584,11 +116,11 @@ $EndMODULE
 $MODULE 
 footprint 
 attribut virtual
-position 107.646000 85.395000  orientation -90.00
+position 97.604000 84.252000  orientation 0.00
 layer front
-$PAD "39"
+$PAD "1"
 Shape Rect Layer front
-position  0.000000  0.000000  size  2.300000  0.600000  orientation 360.00
+position  0.000000  0.000000  size  1.000000  1.000000  orientation 0.00
 drill  0.000000
 shape_offset  0.000000  0.000000
 $EndPAD
@@ -597,11 +129,11 @@ $EndMODULE
 $MODULE 
 footprint 
 attribut virtual
-position 104.446000 85.395000  orientation -90.00
+position 112.346000 112.678000  orientation 0.00
 layer front
-$PAD "31"
+$PAD "1"
 Shape Rect Layer front
-position  0.000000  0.000000  size  2.300000  0.600000  orientation 360.00
+position  0.000000  0.000000  size  1.000000  1.000000  orientation 0.00
 drill  0.000000
 shape_offset  0.000000  0.000000
 $EndPAD
@@ -610,11 +142,11 @@ $EndMODULE
 $MODULE 
 footprint 
 attribut virtual
-position 109.246000 114.097000  orientation 90.00
+position 103.705000 114.224000  orientation 0.00
 layer front
-$PAD "9"
+$PAD "1"
 Shape Rect Layer front
-position  0.000000  0.000000  size  2.300000  0.600000  orientation 0.00
+position  0.000000  0.000000  size  1.000000  1.000000  orientation 0.00
 drill  0.000000
 shape_offset  0.000000  0.000000
 $EndPAD
@@ -623,11 +155,11 @@ $EndMODULE
 $MODULE 
 footprint 
 attribut virtual
-position 105.246000 85.395000  orientation -90.00
+position 98.554000 104.826000  orientation 0.00
 layer front
-$PAD "33"
+$PAD "1"
 Shape Rect Layer front
-position  0.000000  0.000000  size  2.300000  0.600000  orientation 360.00
+position  0.000000  0.000000  size  1.000000  1.000000  orientation 0.00
 drill  0.000000
 shape_offset  0.000000  0.000000
 $EndPAD
@@ -636,11 +168,11 @@ $EndMODULE
 $MODULE 
 footprint 
 attribut virtual
-position 98.846000 85.395000  orientation -90.00
+position 104.726000 112.678000  orientation 0.00
 layer front
-$PAD "17"
+$PAD "1"
 Shape Rect Layer front
-position  0.000000  0.000000  size  2.300000  0.600000  orientation 360.00
+position  0.000000  0.000000  size  1.000000  1.000000  orientation 0.00
 drill  0.000000
 shape_offset  0.000000  0.000000
 $EndPAD
@@ -649,11 +181,11 @@ $EndMODULE
 $MODULE 
 footprint 
 attribut virtual
-position 106.046000 85.395000  orientation -90.00
+position 108.536000 112.678000  orientation 0.00
 layer front
-$PAD "35"
+$PAD "1"
 Shape Rect Layer front
-position  0.000000  0.000000  size  2.300000  0.600000  orientation 360.00
+position  0.000000  0.000000  size  1.000000  1.000000  orientation 0.00
 drill  0.000000
 shape_offset  0.000000  0.000000
 $EndPAD
@@ -662,11 +194,11 @@ $EndMODULE
 $MODULE 
 footprint 
 attribut virtual
-position 111.646000 114.097000  orientation 90.00
+position 98.554000 85.776000  orientation 0.00
 layer front
-$PAD "3"
+$PAD "1"
 Shape Rect Layer front
-position  0.000000  0.000000  size  2.300000  0.600000  orientation 0.00
+position  0.000000  0.000000  size  1.000000  1.000000  orientation 0.00
 drill  0.000000
 shape_offset  0.000000  0.000000
 $EndPAD
@@ -675,11 +207,76 @@ $EndMODULE
 $MODULE 
 footprint 
 attribut virtual
-position 103.646000 85.395000  orientation -90.00
+position 105.505000 114.224000  orientation 0.00
 layer front
-$PAD "29"
+$PAD "1"
 Shape Rect Layer front
-position  0.000000  0.000000  size  2.300000  0.600000  orientation 360.00
+position  0.000000  0.000000  size  1.000000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  
+
+$MODULE 
+footprint 
+attribut virtual
+position 107.620000 114.224000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer front
+position  0.000000  0.000000  size  1.000000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  
+
+$MODULE 
+footprint 
+attribut virtual
+position 110.441000 112.678000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer front
+position  0.000000  0.000000  size  1.000000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  
+
+$MODULE 
+footprint 
+attribut virtual
+position 100.916000 112.678000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer front
+position  0.000000  0.000000  size  1.000000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  
+
+$MODULE 
+footprint 
+attribut virtual
+position 97.604000 103.302000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer front
+position  0.000000  0.000000  size  1.000000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  
+
+$MODULE 
+footprint 
+attribut virtual
+position 101.905000 114.224000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer front
+position  0.000000  0.000000  size  1.000000  1.000000  orientation 0.00
 drill  0.000000
 shape_offset  0.000000  0.000000
 $EndPAD
@@ -688,12 +285,51 @@ $EndMODULE
 $MODULE 1
 footprint 
 attribut virtual
-position 86.411000 84.252000  orientation 0.00
+position 100.354000 104.826000  orientation 0.00
 layer front
 $PAD "1"
-Shape Rect Layer both
-position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
-drill  1.000000
+Shape Rect Layer front
+position  0.000000  0.000000  size  1.000000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  1
+
+$MODULE 1
+footprint 
+attribut virtual
+position 99.404000 84.252000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer front
+position  0.000000  0.000000  size  1.000000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  1
+
+$MODULE 1
+footprint 
+attribut virtual
+position 100.354000 85.776000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer front
+position  0.000000  0.000000  size  1.000000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  1
+
+$MODULE 1
+footprint 
+attribut virtual
+position 99.404000 103.302000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer front
+position  0.000000  0.000000  size  1.000000  1.000000  orientation 0.00
+drill  0.000000
 shape_offset  0.000000  0.000000
 $EndPAD
 $EndMODULE  1
@@ -701,12 +337,51 @@ $EndMODULE  1
 $MODULE 2
 footprint 
 attribut virtual
-position 88.951000 84.252000  orientation 0.00
+position 102.154000 85.776000  orientation 0.00
 layer front
 $PAD "1"
-Shape Rect Layer both
-position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
-drill  1.000000
+Shape Rect Layer front
+position  0.000000  0.000000  size  1.000000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  2
+
+$MODULE 2
+footprint 
+attribut virtual
+position 101.204000 84.252000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer front
+position  0.000000  0.000000  size  1.000000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  2
+
+$MODULE 2
+footprint 
+attribut virtual
+position 101.204000 103.302000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer front
+position  0.000000  0.000000  size  1.000000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  2
+
+$MODULE 2
+footprint 
+attribut virtual
+position 102.154000 104.826000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer front
+position  0.000000  0.000000  size  1.000000  1.000000  orientation 0.00
+drill  0.000000
 shape_offset  0.000000  0.000000
 $EndPAD
 $EndMODULE  2
@@ -714,12 +389,51 @@ $EndMODULE  2
 $MODULE 3
 footprint 
 attribut virtual
-position 91.491000 84.252000  orientation 0.00
+position 103.954000 104.826000  orientation 0.00
 layer front
 $PAD "1"
-Shape Rect Layer both
-position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
-drill  1.000000
+Shape Rect Layer front
+position  0.000000  0.000000  size  1.000000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  3
+
+$MODULE 3
+footprint 
+attribut virtual
+position 103.004000 84.252000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer front
+position  0.000000  0.000000  size  1.000000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  3
+
+$MODULE 3
+footprint 
+attribut virtual
+position 103.954000 85.776000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer front
+position  0.000000  0.000000  size  1.000000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  3
+
+$MODULE 3
+footprint 
+attribut virtual
+position 103.004000 103.302000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer front
+position  0.000000  0.000000  size  1.000000  1.000000  orientation 0.00
+drill  0.000000
 shape_offset  0.000000  0.000000
 $EndPAD
 $EndMODULE  3
@@ -727,12 +441,51 @@ $EndMODULE  3
 $MODULE 4
 footprint 
 attribut virtual
-position 94.031000 84.252000  orientation 0.00
+position 105.754000 85.776000  orientation 0.00
 layer front
 $PAD "1"
-Shape Rect Layer both
-position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
-drill  1.000000
+Shape Rect Layer front
+position  0.000000  0.000000  size  1.000000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  4
+
+$MODULE 4
+footprint 
+attribut virtual
+position 104.804000 103.302000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer front
+position  0.000000  0.000000  size  1.000000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  4
+
+$MODULE 4
+footprint 
+attribut virtual
+position 105.754000 104.826000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer front
+position  0.000000  0.000000  size  1.000000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  4
+
+$MODULE 4
+footprint 
+attribut virtual
+position 104.804000 84.252000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer front
+position  0.000000  0.000000  size  1.000000  1.000000  orientation 0.00
+drill  0.000000
 shape_offset  0.000000  0.000000
 $EndPAD
 $EndMODULE  4
@@ -740,12 +493,12 @@ $EndMODULE  4
 $MODULE 5
 footprint 
 attribut virtual
-position 96.571000 84.252000  orientation 0.00
+position 106.604000 84.252000  orientation 0.00
 layer front
 $PAD "1"
-Shape Rect Layer both
-position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
-drill  1.000000
+Shape Rect Layer front
+position  0.000000  0.000000  size  1.000000  1.000000  orientation 0.00
+drill  0.000000
 shape_offset  0.000000  0.000000
 $EndPAD
 $EndMODULE  5
@@ -753,12 +506,12 @@ $EndMODULE  5
 $MODULE 5
 footprint 
 attribut virtual
-position 83.871000 119.939000  orientation 0.00
+position 106.604000 103.302000  orientation 0.00
 layer front
 $PAD "1"
-Shape Rect Layer both
-position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
-drill  1.000000
+Shape Rect Layer front
+position  0.000000  0.000000  size  1.000000  1.000000  orientation 0.00
+drill  0.000000
 shape_offset  0.000000  0.000000
 $EndPAD
 $EndMODULE  5
@@ -766,12 +519,25 @@ $EndMODULE  5
 $MODULE 5
 footprint 
 attribut virtual
-position 83.871000 73.965000  orientation 0.00
+position 107.554000 85.776000  orientation 0.00
 layer front
 $PAD "1"
-Shape Rect Layer both
-position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
-drill  1.000000
+Shape Rect Layer front
+position  0.000000  0.000000  size  1.000000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  5
+
+$MODULE 5
+footprint 
+attribut virtual
+position 107.554000 104.826000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer front
+position  0.000000  0.000000  size  1.000000  1.000000  orientation 0.00
+drill  0.000000
 shape_offset  0.000000  0.000000
 $EndPAD
 $EndMODULE  5
@@ -779,12 +545,51 @@ $EndMODULE  5
 $MODULE 6
 footprint 
 attribut virtual
-position 83.871000 86.792000  orientation 0.00
+position 108.404000 84.252000  orientation 0.00
 layer front
 $PAD "1"
-Shape Rect Layer both
-position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
-drill  1.000000
+Shape Rect Layer front
+position  0.000000  0.000000  size  1.000000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  6
+
+$MODULE 6
+footprint 
+attribut virtual
+position 109.354000 85.776000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer front
+position  0.000000  0.000000  size  1.000000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  6
+
+$MODULE 6
+footprint 
+attribut virtual
+position 109.354000 104.826000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer front
+position  0.000000  0.000000  size  1.000000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  6
+
+$MODULE 6
+footprint 
+attribut virtual
+position 108.404000 103.302000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer front
+position  0.000000  0.000000  size  1.000000  1.000000  orientation 0.00
+drill  0.000000
 shape_offset  0.000000  0.000000
 $EndPAD
 $EndMODULE  6
@@ -792,12 +597,51 @@ $EndMODULE  6
 $MODULE 7
 footprint 
 attribut virtual
-position 86.411000 86.792000  orientation 0.00
+position 111.154000 85.776000  orientation 0.00
 layer front
 $PAD "1"
-Shape Rect Layer both
-position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
-drill  1.000000
+Shape Rect Layer front
+position  0.000000  0.000000  size  1.000000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  7
+
+$MODULE 7
+footprint 
+attribut virtual
+position 110.204000 103.302000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer front
+position  0.000000  0.000000  size  1.000000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  7
+
+$MODULE 7
+footprint 
+attribut virtual
+position 110.204000 84.252000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer front
+position  0.000000  0.000000  size  1.000000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  7
+
+$MODULE 7
+footprint 
+attribut virtual
+position 111.154000 104.826000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer front
+position  0.000000  0.000000  size  1.000000  1.000000  orientation 0.00
+drill  0.000000
 shape_offset  0.000000  0.000000
 $EndPAD
 $EndMODULE  7
@@ -805,12 +649,51 @@ $EndMODULE  7
 $MODULE 8
 footprint 
 attribut virtual
-position 88.951000 86.792000  orientation 0.00
+position 112.954000 85.776000  orientation 0.00
 layer front
 $PAD "1"
-Shape Rect Layer both
-position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
-drill  1.000000
+Shape Rect Layer front
+position  0.000000  0.000000  size  1.000000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  8
+
+$MODULE 8
+footprint 
+attribut virtual
+position 112.004000 84.252000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer front
+position  0.000000  0.000000  size  1.000000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  8
+
+$MODULE 8
+footprint 
+attribut virtual
+position 112.004000 103.302000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer front
+position  0.000000  0.000000  size  1.000000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  8
+
+$MODULE 8
+footprint 
+attribut virtual
+position 112.954000 104.826000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer front
+position  0.000000  0.000000  size  1.000000  1.000000  orientation 0.00
+drill  0.000000
 shape_offset  0.000000  0.000000
 $EndPAD
 $EndMODULE  8
@@ -818,7 +701,7 @@ $EndMODULE  8
 $MODULE 9
 footprint 
 attribut virtual
-position 91.491000 86.792000  orientation 0.00
+position 86.350000 73.965000  orientation 0.00
 layer front
 $PAD "1"
 Shape Rect Layer both
@@ -831,7 +714,7 @@ $EndMODULE  9
 $MODULE 10
 footprint 
 attribut virtual
-position 94.031000 86.792000  orientation 0.00
+position 88.890000 73.965000  orientation 0.00
 layer front
 $PAD "1"
 Shape Rect Layer both
@@ -844,7 +727,7 @@ $EndMODULE  10
 $MODULE 11
 footprint 
 attribut virtual
-position 96.571000 86.792000  orientation 0.00
+position 91.430000 73.965000  orientation 0.00
 layer front
 $PAD "1"
 Shape Rect Layer both
@@ -857,7 +740,7 @@ $EndMODULE  11
 $MODULE 12
 footprint 
 attribut virtual
-position 83.871000 89.332000  orientation 0.00
+position 93.970000 73.965000  orientation 0.00
 layer front
 $PAD "1"
 Shape Rect Layer both
@@ -870,7 +753,7 @@ $EndMODULE  12
 $MODULE 13
 footprint 
 attribut virtual
-position 86.411000 89.332000  orientation 0.00
+position 96.510000 73.965000  orientation 0.00
 layer front
 $PAD "1"
 Shape Rect Layer both
@@ -883,7 +766,7 @@ $EndMODULE  13
 $MODULE 14
 footprint 
 attribut virtual
-position 88.951000 89.332000  orientation 0.00
+position 99.050000 73.965000  orientation 0.00
 layer front
 $PAD "1"
 Shape Rect Layer both
@@ -896,7 +779,7 @@ $EndMODULE  14
 $MODULE 15
 footprint 
 attribut virtual
-position 91.491000 89.332000  orientation 0.00
+position 101.590000 73.965000  orientation 0.00
 layer front
 $PAD "1"
 Shape Rect Layer both
@@ -909,7 +792,7 @@ $EndMODULE  15
 $MODULE 16
 footprint 
 attribut virtual
-position 94.031000 89.332000  orientation 0.00
+position 104.130000 73.965000  orientation 0.00
 layer front
 $PAD "1"
 Shape Rect Layer both
@@ -922,7 +805,7 @@ $EndMODULE  16
 $MODULE 17
 footprint 
 attribut virtual
-position 96.571000 89.332000  orientation 0.00
+position 106.670000 73.965000  orientation 0.00
 layer front
 $PAD "1"
 Shape Rect Layer both
@@ -935,7 +818,7 @@ $EndMODULE  17
 $MODULE 18
 footprint 
 attribut virtual
-position 83.871000 91.872000  orientation 0.00
+position 109.210000 73.965000  orientation 0.00
 layer front
 $PAD "1"
 Shape Rect Layer both
@@ -948,7 +831,7 @@ $EndMODULE  18
 $MODULE 19
 footprint 
 attribut virtual
-position 86.411000 91.872000  orientation 0.00
+position 111.750000 73.965000  orientation 0.00
 layer front
 $PAD "1"
 Shape Rect Layer both
@@ -961,7 +844,7 @@ $EndMODULE  19
 $MODULE 20
 footprint 
 attribut virtual
-position 88.951000 91.872000  orientation 0.00
+position 83.810000 76.505000  orientation 0.00
 layer front
 $PAD "1"
 Shape Rect Layer both
@@ -974,7 +857,7 @@ $EndMODULE  20
 $MODULE 21
 footprint 
 attribut virtual
-position 91.491000 91.872000  orientation 0.00
+position 86.350000 76.505000  orientation 0.00
 layer front
 $PAD "1"
 Shape Rect Layer both
@@ -987,7 +870,7 @@ $EndMODULE  21
 $MODULE 22
 footprint 
 attribut virtual
-position 94.031000 91.872000  orientation 0.00
+position 88.890000 76.505000  orientation 0.00
 layer front
 $PAD "1"
 Shape Rect Layer both
@@ -1000,7 +883,7 @@ $EndMODULE  22
 $MODULE 23
 footprint 
 attribut virtual
-position 96.571000 91.872000  orientation 0.00
+position 91.430000 76.505000  orientation 0.00
 layer front
 $PAD "1"
 Shape Rect Layer both
@@ -1013,7 +896,7 @@ $EndMODULE  23
 $MODULE 24
 footprint 
 attribut virtual
-position 83.871000 94.412000  orientation 0.00
+position 93.970000 76.505000  orientation 0.00
 layer front
 $PAD "1"
 Shape Rect Layer both
@@ -1026,7 +909,7 @@ $EndMODULE  24
 $MODULE 25
 footprint 
 attribut virtual
-position 86.411000 94.412000  orientation 0.00
+position 96.510000 76.505000  orientation 0.00
 layer front
 $PAD "1"
 Shape Rect Layer both
@@ -1039,7 +922,7 @@ $EndMODULE  25
 $MODULE 26
 footprint 
 attribut virtual
-position 88.951000 94.412000  orientation 0.00
+position 99.050000 76.505000  orientation 0.00
 layer front
 $PAD "1"
 Shape Rect Layer both
@@ -1052,7 +935,7 @@ $EndMODULE  26
 $MODULE 27
 footprint 
 attribut virtual
-position 91.491000 94.412000  orientation 0.00
+position 101.590000 76.505000  orientation 0.00
 layer front
 $PAD "1"
 Shape Rect Layer both
@@ -1065,7 +948,7 @@ $EndMODULE  27
 $MODULE 28
 footprint 
 attribut virtual
-position 94.031000 94.412000  orientation 0.00
+position 104.130000 76.505000  orientation 0.00
 layer front
 $PAD "1"
 Shape Rect Layer both
@@ -1078,7 +961,7 @@ $EndMODULE  28
 $MODULE 29
 footprint 
 attribut virtual
-position 96.571000 94.412000  orientation 0.00
+position 106.670000 76.505000  orientation 0.00
 layer front
 $PAD "1"
 Shape Rect Layer both
@@ -1091,7 +974,7 @@ $EndMODULE  29
 $MODULE 30
 footprint 
 attribut virtual
-position 83.871000 96.952000  orientation 0.00
+position 109.210000 76.505000  orientation 0.00
 layer front
 $PAD "1"
 Shape Rect Layer both
@@ -1104,7 +987,7 @@ $EndMODULE  30
 $MODULE 31
 footprint 
 attribut virtual
-position 86.411000 96.952000  orientation 0.00
+position 111.750000 76.505000  orientation 0.00
 layer front
 $PAD "1"
 Shape Rect Layer both
@@ -1117,7 +1000,7 @@ $EndMODULE  31
 $MODULE 32
 footprint 
 attribut virtual
-position 88.951000 96.952000  orientation 0.00
+position 83.810000 79.045000  orientation 0.00
 layer front
 $PAD "1"
 Shape Rect Layer both
@@ -1130,7 +1013,7 @@ $EndMODULE  32
 $MODULE 33
 footprint 
 attribut virtual
-position 91.491000 96.952000  orientation 0.00
+position 86.350000 79.045000  orientation 0.00
 layer front
 $PAD "1"
 Shape Rect Layer both
@@ -1143,7 +1026,7 @@ $EndMODULE  33
 $MODULE 34
 footprint 
 attribut virtual
-position 94.031000 96.952000  orientation 0.00
+position 88.890000 79.045000  orientation 0.00
 layer front
 $PAD "1"
 Shape Rect Layer both
@@ -1156,7 +1039,7 @@ $EndMODULE  34
 $MODULE 35
 footprint 
 attribut virtual
-position 96.571000 96.952000  orientation 0.00
+position 91.430000 79.045000  orientation 0.00
 layer front
 $PAD "1"
 Shape Rect Layer both
@@ -1169,7 +1052,7 @@ $EndMODULE  35
 $MODULE 36
 footprint 
 attribut virtual
-position 83.871000 99.492000  orientation 0.00
+position 93.970000 79.045000  orientation 0.00
 layer front
 $PAD "1"
 Shape Rect Layer both
@@ -1182,7 +1065,7 @@ $EndMODULE  36
 $MODULE 37
 footprint 
 attribut virtual
-position 86.411000 99.492000  orientation 0.00
+position 96.510000 79.045000  orientation 0.00
 layer front
 $PAD "1"
 Shape Rect Layer both
@@ -1195,7 +1078,7 @@ $EndMODULE  37
 $MODULE 38
 footprint 
 attribut virtual
-position 88.951000 99.492000  orientation 0.00
+position 99.050000 79.045000  orientation 0.00
 layer front
 $PAD "1"
 Shape Rect Layer both
@@ -1208,7 +1091,7 @@ $EndMODULE  38
 $MODULE 39
 footprint 
 attribut virtual
-position 91.491000 99.492000  orientation 0.00
+position 101.590000 79.045000  orientation 0.00
 layer front
 $PAD "1"
 Shape Rect Layer both
@@ -1221,7 +1104,7 @@ $EndMODULE  39
 $MODULE 40
 footprint 
 attribut virtual
-position 94.031000 99.492000  orientation 0.00
+position 104.130000 79.045000  orientation 0.00
 layer front
 $PAD "1"
 Shape Rect Layer both
@@ -1234,7 +1117,7 @@ $EndMODULE  40
 $MODULE 41
 footprint 
 attribut virtual
-position 96.571000 99.492000  orientation 0.00
+position 106.670000 79.045000  orientation 0.00
 layer front
 $PAD "1"
 Shape Rect Layer both
@@ -1247,7 +1130,7 @@ $EndMODULE  41
 $MODULE 42
 footprint 
 attribut virtual
-position 83.871000 102.032000  orientation 0.00
+position 109.210000 79.045000  orientation 0.00
 layer front
 $PAD "1"
 Shape Rect Layer both
@@ -1260,7 +1143,7 @@ $EndMODULE  42
 $MODULE 43
 footprint 
 attribut virtual
-position 86.411000 102.032000  orientation 0.00
+position 111.750000 79.045000  orientation 0.00
 layer front
 $PAD "1"
 Shape Rect Layer both
@@ -1273,7 +1156,7 @@ $EndMODULE  43
 $MODULE 44
 footprint 
 attribut virtual
-position 88.951000 102.032000  orientation 0.00
+position 83.810000 81.585000  orientation 0.00
 layer front
 $PAD "1"
 Shape Rect Layer both
@@ -1286,7 +1169,7 @@ $EndMODULE  44
 $MODULE 45
 footprint 
 attribut virtual
-position 91.491000 102.032000  orientation 0.00
+position 86.350000 81.585000  orientation 0.00
 layer front
 $PAD "1"
 Shape Rect Layer both
@@ -1299,7 +1182,7 @@ $EndMODULE  45
 $MODULE 46
 footprint 
 attribut virtual
-position 94.031000 102.032000  orientation 0.00
+position 88.890000 81.585000  orientation 0.00
 layer front
 $PAD "1"
 Shape Rect Layer both
@@ -1312,7 +1195,7 @@ $EndMODULE  46
 $MODULE 47
 footprint 
 attribut virtual
-position 96.571000 102.032000  orientation 0.00
+position 91.430000 81.585000  orientation 0.00
 layer front
 $PAD "1"
 Shape Rect Layer both
@@ -1325,7 +1208,7 @@ $EndMODULE  47
 $MODULE 48
 footprint 
 attribut virtual
-position 83.871000 104.572000  orientation 0.00
+position 93.970000 81.585000  orientation 0.00
 layer front
 $PAD "1"
 Shape Rect Layer both
@@ -1338,7 +1221,7 @@ $EndMODULE  48
 $MODULE 49
 footprint 
 attribut virtual
-position 86.411000 104.572000  orientation 0.00
+position 96.510000 81.585000  orientation 0.00
 layer front
 $PAD "1"
 Shape Rect Layer both
@@ -1351,7 +1234,7 @@ $EndMODULE  49
 $MODULE 50
 footprint 
 attribut virtual
-position 88.951000 104.572000  orientation 0.00
+position 99.050000 81.585000  orientation 0.00
 layer front
 $PAD "1"
 Shape Rect Layer both
@@ -1364,7 +1247,7 @@ $EndMODULE  50
 $MODULE 51
 footprint 
 attribut virtual
-position 91.491000 104.572000  orientation 0.00
+position 101.590000 81.585000  orientation 0.00
 layer front
 $PAD "1"
 Shape Rect Layer both
@@ -1377,7 +1260,7 @@ $EndMODULE  51
 $MODULE 52
 footprint 
 attribut virtual
-position 94.031000 104.572000  orientation 0.00
+position 104.130000 81.585000  orientation 0.00
 layer front
 $PAD "1"
 Shape Rect Layer both
@@ -1390,7 +1273,7 @@ $EndMODULE  52
 $MODULE 53
 footprint 
 attribut virtual
-position 96.571000 104.572000  orientation 0.00
+position 106.670000 81.585000  orientation 0.00
 layer front
 $PAD "1"
 Shape Rect Layer both
@@ -1403,7 +1286,7 @@ $EndMODULE  53
 $MODULE 54
 footprint 
 attribut virtual
-position 83.871000 107.112000  orientation 0.00
+position 109.210000 81.585000  orientation 0.00
 layer front
 $PAD "1"
 Shape Rect Layer both
@@ -1416,7 +1299,7 @@ $EndMODULE  54
 $MODULE 55
 footprint 
 attribut virtual
-position 86.411000 107.112000  orientation 0.00
+position 111.750000 81.585000  orientation 0.00
 layer front
 $PAD "1"
 Shape Rect Layer both
@@ -1429,7 +1312,7 @@ $EndMODULE  55
 $MODULE 56
 footprint 
 attribut virtual
-position 88.951000 107.112000  orientation 0.00
+position 83.810000 84.125000  orientation 0.00
 layer front
 $PAD "1"
 Shape Rect Layer both
@@ -1442,7 +1325,7 @@ $EndMODULE  56
 $MODULE 57
 footprint 
 attribut virtual
-position 91.491000 107.112000  orientation 0.00
+position 86.350000 84.125000  orientation 0.00
 layer front
 $PAD "1"
 Shape Rect Layer both
@@ -1455,7 +1338,7 @@ $EndMODULE  57
 $MODULE 58
 footprint 
 attribut virtual
-position 94.031000 107.112000  orientation 0.00
+position 88.890000 84.125000  orientation 0.00
 layer front
 $PAD "1"
 Shape Rect Layer both
@@ -1468,7 +1351,7 @@ $EndMODULE  58
 $MODULE 59
 footprint 
 attribut virtual
-position 96.571000 107.112000  orientation 0.00
+position 91.430000 84.125000  orientation 0.00
 layer front
 $PAD "1"
 Shape Rect Layer both
@@ -1481,7 +1364,7 @@ $EndMODULE  59
 $MODULE 60
 footprint 
 attribut virtual
-position 83.871000 109.652000  orientation 0.00
+position 93.970000 84.125000  orientation 0.00
 layer front
 $PAD "1"
 Shape Rect Layer both
@@ -1494,7 +1377,7 @@ $EndMODULE  60
 $MODULE 61
 footprint 
 attribut virtual
-position 86.411000 109.652000  orientation 0.00
+position 83.810000 86.665000  orientation 0.00
 layer front
 $PAD "1"
 Shape Rect Layer both
@@ -1507,7 +1390,7 @@ $EndMODULE  61
 $MODULE 62
 footprint 
 attribut virtual
-position 88.951000 109.652000  orientation 0.00
+position 86.350000 86.665000  orientation 0.00
 layer front
 $PAD "1"
 Shape Rect Layer both
@@ -1520,7 +1403,7 @@ $EndMODULE  62
 $MODULE 63
 footprint 
 attribut virtual
-position 91.491000 109.652000  orientation 0.00
+position 88.890000 86.665000  orientation 0.00
 layer front
 $PAD "1"
 Shape Rect Layer both
@@ -1533,7 +1416,7 @@ $EndMODULE  63
 $MODULE 64
 footprint 
 attribut virtual
-position 94.031000 109.652000  orientation 0.00
+position 91.430000 86.665000  orientation 0.00
 layer front
 $PAD "1"
 Shape Rect Layer both
@@ -1546,7 +1429,7 @@ $EndMODULE  64
 $MODULE 65
 footprint 
 attribut virtual
-position 96.571000 109.652000  orientation 0.00
+position 93.970000 86.665000  orientation 0.00
 layer front
 $PAD "1"
 Shape Rect Layer both
@@ -1559,7 +1442,7 @@ $EndMODULE  65
 $MODULE 66
 footprint 
 attribut virtual
-position 83.871000 112.192000  orientation 0.00
+position 83.810000 89.205000  orientation 0.00
 layer front
 $PAD "1"
 Shape Rect Layer both
@@ -1572,7 +1455,7 @@ $EndMODULE  66
 $MODULE 67
 footprint 
 attribut virtual
-position 86.411000 112.192000  orientation 0.00
+position 86.350000 89.205000  orientation 0.00
 layer front
 $PAD "1"
 Shape Rect Layer both
@@ -1585,7 +1468,7 @@ $EndMODULE  67
 $MODULE 68
 footprint 
 attribut virtual
-position 88.951000 112.192000  orientation 0.00
+position 88.890000 89.205000  orientation 0.00
 layer front
 $PAD "1"
 Shape Rect Layer both
@@ -1598,7 +1481,7 @@ $EndMODULE  68
 $MODULE 69
 footprint 
 attribut virtual
-position 91.491000 112.192000  orientation 0.00
+position 91.430000 89.205000  orientation 0.00
 layer front
 $PAD "1"
 Shape Rect Layer both
@@ -1611,7 +1494,7 @@ $EndMODULE  69
 $MODULE 70
 footprint 
 attribut virtual
-position 94.031000 112.192000  orientation 0.00
+position 93.970000 89.205000  orientation 0.00
 layer front
 $PAD "1"
 Shape Rect Layer both
@@ -1624,7 +1507,7 @@ $EndMODULE  70
 $MODULE 71
 footprint 
 attribut virtual
-position 96.571000 112.192000  orientation 0.00
+position 83.810000 91.745000  orientation 0.00
 layer front
 $PAD "1"
 Shape Rect Layer both
@@ -1637,7 +1520,7 @@ $EndMODULE  71
 $MODULE 72
 footprint 
 attribut virtual
-position 83.871000 114.732000  orientation 0.00
+position 86.350000 91.745000  orientation 0.00
 layer front
 $PAD "1"
 Shape Rect Layer both
@@ -1650,7 +1533,7 @@ $EndMODULE  72
 $MODULE 73
 footprint 
 attribut virtual
-position 86.411000 114.732000  orientation 0.00
+position 88.890000 91.745000  orientation 0.00
 layer front
 $PAD "1"
 Shape Rect Layer both
@@ -1663,7 +1546,7 @@ $EndMODULE  73
 $MODULE 74
 footprint 
 attribut virtual
-position 88.951000 114.732000  orientation 0.00
+position 91.430000 91.745000  orientation 0.00
 layer front
 $PAD "1"
 Shape Rect Layer both
@@ -1676,7 +1559,7 @@ $EndMODULE  74
 $MODULE 75
 footprint 
 attribut virtual
-position 91.491000 114.732000  orientation 0.00
+position 93.970000 91.745000  orientation 0.00
 layer front
 $PAD "1"
 Shape Rect Layer both
@@ -1689,7 +1572,7 @@ $EndMODULE  75
 $MODULE 76
 footprint 
 attribut virtual
-position 94.031000 114.732000  orientation 0.00
+position 83.810000 94.285000  orientation 0.00
 layer front
 $PAD "1"
 Shape Rect Layer both
@@ -1702,7 +1585,7 @@ $EndMODULE  76
 $MODULE 77
 footprint 
 attribut virtual
-position 96.571000 114.732000  orientation 0.00
+position 86.350000 94.285000  orientation 0.00
 layer front
 $PAD "1"
 Shape Rect Layer both
@@ -1715,7 +1598,7 @@ $EndMODULE  77
 $MODULE 78
 footprint 
 attribut virtual
-position 83.871000 117.272000  orientation 0.00
+position 88.890000 94.285000  orientation 0.00
 layer front
 $PAD "1"
 Shape Rect Layer both
@@ -1728,7 +1611,7 @@ $EndMODULE  78
 $MODULE 79
 footprint 
 attribut virtual
-position 86.411000 117.272000  orientation 0.00
+position 91.430000 94.285000  orientation 0.00
 layer front
 $PAD "1"
 Shape Rect Layer both
@@ -1741,7 +1624,7 @@ $EndMODULE  79
 $MODULE 80
 footprint 
 attribut virtual
-position 88.951000 117.272000  orientation 0.00
+position 93.970000 94.285000  orientation 0.00
 layer front
 $PAD "1"
 Shape Rect Layer both
@@ -1754,7 +1637,7 @@ $EndMODULE  80
 $MODULE 81
 footprint 
 attribut virtual
-position 91.491000 117.272000  orientation 0.00
+position 83.810000 96.825000  orientation 0.00
 layer front
 $PAD "1"
 Shape Rect Layer both
@@ -1767,7 +1650,7 @@ $EndMODULE  81
 $MODULE 82
 footprint 
 attribut virtual
-position 94.031000 117.272000  orientation 0.00
+position 86.350000 96.825000  orientation 0.00
 layer front
 $PAD "1"
 Shape Rect Layer both
@@ -1780,7 +1663,7 @@ $EndMODULE  82
 $MODULE 83
 footprint 
 attribut virtual
-position 96.571000 117.272000  orientation 0.00
+position 88.890000 96.825000  orientation 0.00
 layer front
 $PAD "1"
 Shape Rect Layer both
@@ -1793,20 +1676,7 @@ $EndMODULE  83
 $MODULE 84
 footprint 
 attribut virtual
-position 86.411000 73.965000  orientation 0.00
-layer front
-$PAD "1"
-Shape Rect Layer both
-position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
-drill  1.000000
-shape_offset  0.000000  0.000000
-$EndPAD
-$EndMODULE  84
-
-$MODULE 84
-footprint 
-attribut virtual
-position 86.411000 119.939000  orientation 0.00
+position 91.430000 96.825000  orientation 0.00
 layer front
 $PAD "1"
 Shape Rect Layer both
@@ -1819,20 +1689,7 @@ $EndMODULE  84
 $MODULE 85
 footprint 
 attribut virtual
-position 88.951000 119.939000  orientation 0.00
-layer front
-$PAD "1"
-Shape Rect Layer both
-position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
-drill  1.000000
-shape_offset  0.000000  0.000000
-$EndPAD
-$EndMODULE  85
-
-$MODULE 85
-footprint 
-attribut virtual
-position 88.951000 73.965000  orientation 0.00
+position 93.970000 96.825000  orientation 0.00
 layer front
 $PAD "1"
 Shape Rect Layer both
@@ -1845,20 +1702,7 @@ $EndMODULE  85
 $MODULE 86
 footprint 
 attribut virtual
-position 91.491000 73.965000  orientation 0.00
-layer front
-$PAD "1"
-Shape Rect Layer both
-position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
-drill  1.000000
-shape_offset  0.000000  0.000000
-$EndPAD
-$EndMODULE  86
-
-$MODULE 86
-footprint 
-attribut virtual
-position 91.491000 119.939000  orientation 0.00
+position 83.810000 99.365000  orientation 0.00
 layer front
 $PAD "1"
 Shape Rect Layer both
@@ -1871,20 +1715,7 @@ $EndMODULE  86
 $MODULE 87
 footprint 
 attribut virtual
-position 94.031000 119.939000  orientation 0.00
-layer front
-$PAD "1"
-Shape Rect Layer both
-position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
-drill  1.000000
-shape_offset  0.000000  0.000000
-$EndPAD
-$EndMODULE  87
-
-$MODULE 87
-footprint 
-attribut virtual
-position 94.031000 73.965000  orientation 0.00
+position 86.350000 99.365000  orientation 0.00
 layer front
 $PAD "1"
 Shape Rect Layer both
@@ -1897,20 +1728,7 @@ $EndMODULE  87
 $MODULE 88
 footprint 
 attribut virtual
-position 96.571000 119.939000  orientation 0.00
-layer front
-$PAD "1"
-Shape Rect Layer both
-position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
-drill  1.000000
-shape_offset  0.000000  0.000000
-$EndPAD
-$EndMODULE  88
-
-$MODULE 88
-footprint 
-attribut virtual
-position 96.571000 73.965000  orientation 0.00
+position 88.890000 99.365000  orientation 0.00
 layer front
 $PAD "1"
 Shape Rect Layer both
@@ -1923,20 +1741,7 @@ $EndMODULE  88
 $MODULE 89
 footprint 
 attribut virtual
-position 99.111000 73.965000  orientation 0.00
-layer front
-$PAD "1"
-Shape Rect Layer both
-position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
-drill  1.000000
-shape_offset  0.000000  0.000000
-$EndPAD
-$EndMODULE  89
-
-$MODULE 89
-footprint 
-attribut virtual
-position 99.111000 119.939000  orientation 0.00
+position 91.430000 99.365000  orientation 0.00
 layer front
 $PAD "1"
 Shape Rect Layer both
@@ -1949,20 +1754,7 @@ $EndMODULE  89
 $MODULE 90
 footprint 
 attribut virtual
-position 101.651000 73.965000  orientation 0.00
-layer front
-$PAD "1"
-Shape Rect Layer both
-position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
-drill  1.000000
-shape_offset  0.000000  0.000000
-$EndPAD
-$EndMODULE  90
-
-$MODULE 90
-footprint 
-attribut virtual
-position 101.651000 119.939000  orientation 0.00
+position 93.970000 99.365000  orientation 0.00
 layer front
 $PAD "1"
 Shape Rect Layer both
@@ -1975,20 +1767,7 @@ $EndMODULE  90
 $MODULE 91
 footprint 
 attribut virtual
-position 104.191000 73.965000  orientation 0.00
-layer front
-$PAD "1"
-Shape Rect Layer both
-position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
-drill  1.000000
-shape_offset  0.000000  0.000000
-$EndPAD
-$EndMODULE  91
-
-$MODULE 91
-footprint 
-attribut virtual
-position 104.191000 119.939000  orientation 0.00
+position 83.810000 101.905000  orientation 0.00
 layer front
 $PAD "1"
 Shape Rect Layer both
@@ -2001,20 +1780,7 @@ $EndMODULE  91
 $MODULE 92
 footprint 
 attribut virtual
-position 106.731000 73.965000  orientation 0.00
-layer front
-$PAD "1"
-Shape Rect Layer both
-position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
-drill  1.000000
-shape_offset  0.000000  0.000000
-$EndPAD
-$EndMODULE  92
-
-$MODULE 92
-footprint 
-attribut virtual
-position 106.731000 119.939000  orientation 0.00
+position 86.350000 101.905000  orientation 0.00
 layer front
 $PAD "1"
 Shape Rect Layer both
@@ -2027,20 +1793,7 @@ $EndMODULE  92
 $MODULE 93
 footprint 
 attribut virtual
-position 109.271000 119.939000  orientation 0.00
-layer front
-$PAD "1"
-Shape Rect Layer both
-position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
-drill  1.000000
-shape_offset  0.000000  0.000000
-$EndPAD
-$EndMODULE  93
-
-$MODULE 93
-footprint 
-attribut virtual
-position 109.271000 73.965000  orientation 0.00
+position 88.890000 101.905000  orientation 0.00
 layer front
 $PAD "1"
 Shape Rect Layer both
@@ -2053,20 +1806,7 @@ $EndMODULE  93
 $MODULE 94
 footprint 
 attribut virtual
-position 111.811000 119.939000  orientation 0.00
-layer front
-$PAD "1"
-Shape Rect Layer both
-position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
-drill  1.000000
-shape_offset  0.000000  0.000000
-$EndPAD
-$EndMODULE  94
-
-$MODULE 94
-footprint 
-attribut virtual
-position 111.811000 73.965000  orientation 0.00
+position 91.430000 101.905000  orientation 0.00
 layer front
 $PAD "1"
 Shape Rect Layer both
@@ -2079,20 +1819,7 @@ $EndMODULE  94
 $MODULE 95
 footprint 
 attribut virtual
-position 83.871000 76.505000  orientation 0.00
-layer front
-$PAD "1"
-Shape Rect Layer both
-position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
-drill  1.000000
-shape_offset  0.000000  0.000000
-$EndPAD
-$EndMODULE  95
-
-$MODULE 95
-footprint 
-attribut virtual
-position 83.871000 122.479000  orientation 0.00
+position 93.970000 101.905000  orientation 0.00
 layer front
 $PAD "1"
 Shape Rect Layer both
@@ -2105,20 +1832,7 @@ $EndMODULE  95
 $MODULE 96
 footprint 
 attribut virtual
-position 86.411000 76.505000  orientation 0.00
-layer front
-$PAD "1"
-Shape Rect Layer both
-position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
-drill  1.000000
-shape_offset  0.000000  0.000000
-$EndPAD
-$EndMODULE  96
-
-$MODULE 96
-footprint 
-attribut virtual
-position 86.411000 122.479000  orientation 0.00
+position 83.810000 104.445000  orientation 0.00
 layer front
 $PAD "1"
 Shape Rect Layer both
@@ -2131,20 +1845,7 @@ $EndMODULE  96
 $MODULE 97
 footprint 
 attribut virtual
-position 88.951000 122.479000  orientation 0.00
-layer front
-$PAD "1"
-Shape Rect Layer both
-position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
-drill  1.000000
-shape_offset  0.000000  0.000000
-$EndPAD
-$EndMODULE  97
-
-$MODULE 97
-footprint 
-attribut virtual
-position 88.951000 76.505000  orientation 0.00
+position 86.350000 104.445000  orientation 0.00
 layer front
 $PAD "1"
 Shape Rect Layer both
@@ -2157,20 +1858,7 @@ $EndMODULE  97
 $MODULE 98
 footprint 
 attribut virtual
-position 91.491000 76.505000  orientation 0.00
-layer front
-$PAD "1"
-Shape Rect Layer both
-position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
-drill  1.000000
-shape_offset  0.000000  0.000000
-$EndPAD
-$EndMODULE  98
-
-$MODULE 98
-footprint 
-attribut virtual
-position 91.491000 122.479000  orientation 0.00
+position 88.890000 104.445000  orientation 0.00
 layer front
 $PAD "1"
 Shape Rect Layer both
@@ -2183,20 +1871,7 @@ $EndMODULE  98
 $MODULE 99
 footprint 
 attribut virtual
-position 94.031000 76.505000  orientation 0.00
-layer front
-$PAD "1"
-Shape Rect Layer both
-position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
-drill  1.000000
-shape_offset  0.000000  0.000000
-$EndPAD
-$EndMODULE  99
-
-$MODULE 99
-footprint 
-attribut virtual
-position 94.031000 122.479000  orientation 0.00
+position 91.430000 104.445000  orientation 0.00
 layer front
 $PAD "1"
 Shape Rect Layer both
@@ -2209,20 +1884,7 @@ $EndMODULE  99
 $MODULE 100
 footprint 
 attribut virtual
-position 96.571000 76.505000  orientation 0.00
-layer front
-$PAD "1"
-Shape Rect Layer both
-position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
-drill  1.000000
-shape_offset  0.000000  0.000000
-$EndPAD
-$EndMODULE  100
-
-$MODULE 100
-footprint 
-attribut virtual
-position 96.571000 122.479000  orientation 0.00
+position 93.970000 104.445000  orientation 0.00
 layer front
 $PAD "1"
 Shape Rect Layer both
@@ -2235,20 +1897,7 @@ $EndMODULE  100
 $MODULE 101
 footprint 
 attribut virtual
-position 99.111000 76.505000  orientation 0.00
-layer front
-$PAD "1"
-Shape Rect Layer both
-position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
-drill  1.000000
-shape_offset  0.000000  0.000000
-$EndPAD
-$EndMODULE  101
-
-$MODULE 101
-footprint 
-attribut virtual
-position 99.111000 122.479000  orientation 0.00
+position 83.810000 106.985000  orientation 0.00
 layer front
 $PAD "1"
 Shape Rect Layer both
@@ -2261,20 +1910,7 @@ $EndMODULE  101
 $MODULE 102
 footprint 
 attribut virtual
-position 101.651000 122.479000  orientation 0.00
-layer front
-$PAD "1"
-Shape Rect Layer both
-position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
-drill  1.000000
-shape_offset  0.000000  0.000000
-$EndPAD
-$EndMODULE  102
-
-$MODULE 102
-footprint 
-attribut virtual
-position 101.651000 76.505000  orientation 0.00
+position 86.350000 106.985000  orientation 0.00
 layer front
 $PAD "1"
 Shape Rect Layer both
@@ -2287,20 +1923,7 @@ $EndMODULE  102
 $MODULE 103
 footprint 
 attribut virtual
-position 104.191000 122.479000  orientation 0.00
-layer front
-$PAD "1"
-Shape Rect Layer both
-position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
-drill  1.000000
-shape_offset  0.000000  0.000000
-$EndPAD
-$EndMODULE  103
-
-$MODULE 103
-footprint 
-attribut virtual
-position 104.191000 76.505000  orientation 0.00
+position 88.890000 106.985000  orientation 0.00
 layer front
 $PAD "1"
 Shape Rect Layer both
@@ -2313,20 +1936,7 @@ $EndMODULE  103
 $MODULE 104
 footprint 
 attribut virtual
-position 106.731000 122.479000  orientation 0.00
-layer front
-$PAD "1"
-Shape Rect Layer both
-position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
-drill  1.000000
-shape_offset  0.000000  0.000000
-$EndPAD
-$EndMODULE  104
-
-$MODULE 104
-footprint 
-attribut virtual
-position 106.731000 76.505000  orientation 0.00
+position 91.430000 106.985000  orientation 0.00
 layer front
 $PAD "1"
 Shape Rect Layer both
@@ -2339,20 +1949,7 @@ $EndMODULE  104
 $MODULE 105
 footprint 
 attribut virtual
-position 109.271000 122.479000  orientation 0.00
-layer front
-$PAD "1"
-Shape Rect Layer both
-position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
-drill  1.000000
-shape_offset  0.000000  0.000000
-$EndPAD
-$EndMODULE  105
-
-$MODULE 105
-footprint 
-attribut virtual
-position 109.271000 76.505000  orientation 0.00
+position 93.970000 106.985000  orientation 0.00
 layer front
 $PAD "1"
 Shape Rect Layer both
@@ -2365,20 +1962,7 @@ $EndMODULE  105
 $MODULE 106
 footprint 
 attribut virtual
-position 111.811000 76.505000  orientation 0.00
-layer front
-$PAD "1"
-Shape Rect Layer both
-position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
-drill  1.000000
-shape_offset  0.000000  0.000000
-$EndPAD
-$EndMODULE  106
-
-$MODULE 106
-footprint 
-attribut virtual
-position 111.811000 122.479000  orientation 0.00
+position 83.810000 109.525000  orientation 0.00
 layer front
 $PAD "1"
 Shape Rect Layer both
@@ -2391,20 +1975,7 @@ $EndMODULE  106
 $MODULE 107
 footprint 
 attribut virtual
-position 83.871000 79.045000  orientation 0.00
-layer front
-$PAD "1"
-Shape Rect Layer both
-position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
-drill  1.000000
-shape_offset  0.000000  0.000000
-$EndPAD
-$EndMODULE  107
-
-$MODULE 107
-footprint 
-attribut virtual
-position 83.871000 125.019000  orientation 0.00
+position 86.350000 109.525000  orientation 0.00
 layer front
 $PAD "1"
 Shape Rect Layer both
@@ -2417,20 +1988,7 @@ $EndMODULE  107
 $MODULE 108
 footprint 
 attribut virtual
-position 86.411000 125.019000  orientation 0.00
-layer front
-$PAD "1"
-Shape Rect Layer both
-position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
-drill  1.000000
-shape_offset  0.000000  0.000000
-$EndPAD
-$EndMODULE  108
-
-$MODULE 108
-footprint 
-attribut virtual
-position 86.411000 79.045000  orientation 0.00
+position 88.890000 109.525000  orientation 0.00
 layer front
 $PAD "1"
 Shape Rect Layer both
@@ -2443,20 +2001,7 @@ $EndMODULE  108
 $MODULE 109
 footprint 
 attribut virtual
-position 88.951000 125.019000  orientation 0.00
-layer front
-$PAD "1"
-Shape Rect Layer both
-position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
-drill  1.000000
-shape_offset  0.000000  0.000000
-$EndPAD
-$EndMODULE  109
-
-$MODULE 109
-footprint 
-attribut virtual
-position 88.951000 79.045000  orientation 0.00
+position 91.430000 109.525000  orientation 0.00
 layer front
 $PAD "1"
 Shape Rect Layer both
@@ -2469,20 +2014,7 @@ $EndMODULE  109
 $MODULE 110
 footprint 
 attribut virtual
-position 91.491000 79.045000  orientation 0.00
-layer front
-$PAD "1"
-Shape Rect Layer both
-position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
-drill  1.000000
-shape_offset  0.000000  0.000000
-$EndPAD
-$EndMODULE  110
-
-$MODULE 110
-footprint 
-attribut virtual
-position 91.491000 125.019000  orientation 0.00
+position 93.970000 109.525000  orientation 0.00
 layer front
 $PAD "1"
 Shape Rect Layer both
@@ -2495,20 +2027,7 @@ $EndMODULE  110
 $MODULE 111
 footprint 
 attribut virtual
-position 94.031000 79.045000  orientation 0.00
-layer front
-$PAD "1"
-Shape Rect Layer both
-position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
-drill  1.000000
-shape_offset  0.000000  0.000000
-$EndPAD
-$EndMODULE  111
-
-$MODULE 111
-footprint 
-attribut virtual
-position 94.031000 125.019000  orientation 0.00
+position 83.810000 112.065000  orientation 0.00
 layer front
 $PAD "1"
 Shape Rect Layer both
@@ -2521,20 +2040,7 @@ $EndMODULE  111
 $MODULE 112
 footprint 
 attribut virtual
-position 96.571000 125.019000  orientation 0.00
-layer front
-$PAD "1"
-Shape Rect Layer both
-position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
-drill  1.000000
-shape_offset  0.000000  0.000000
-$EndPAD
-$EndMODULE  112
-
-$MODULE 112
-footprint 
-attribut virtual
-position 96.571000 79.045000  orientation 0.00
+position 86.350000 112.065000  orientation 0.00
 layer front
 $PAD "1"
 Shape Rect Layer both
@@ -2547,20 +2053,7 @@ $EndMODULE  112
 $MODULE 113
 footprint 
 attribut virtual
-position 99.111000 79.045000  orientation 0.00
-layer front
-$PAD "1"
-Shape Rect Layer both
-position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
-drill  1.000000
-shape_offset  0.000000  0.000000
-$EndPAD
-$EndMODULE  113
-
-$MODULE 113
-footprint 
-attribut virtual
-position 99.111000 125.019000  orientation 0.00
+position 88.890000 112.065000  orientation 0.00
 layer front
 $PAD "1"
 Shape Rect Layer both
@@ -2573,20 +2066,7 @@ $EndMODULE  113
 $MODULE 114
 footprint 
 attribut virtual
-position 101.651000 79.045000  orientation 0.00
-layer front
-$PAD "1"
-Shape Rect Layer both
-position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
-drill  1.000000
-shape_offset  0.000000  0.000000
-$EndPAD
-$EndMODULE  114
-
-$MODULE 114
-footprint 
-attribut virtual
-position 101.651000 125.019000  orientation 0.00
+position 91.430000 112.065000  orientation 0.00
 layer front
 $PAD "1"
 Shape Rect Layer both
@@ -2599,20 +2079,7 @@ $EndMODULE  114
 $MODULE 115
 footprint 
 attribut virtual
-position 104.191000 79.045000  orientation 0.00
-layer front
-$PAD "1"
-Shape Rect Layer both
-position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
-drill  1.000000
-shape_offset  0.000000  0.000000
-$EndPAD
-$EndMODULE  115
-
-$MODULE 115
-footprint 
-attribut virtual
-position 104.191000 125.019000  orientation 0.00
+position 93.970000 112.065000  orientation 0.00
 layer front
 $PAD "1"
 Shape Rect Layer both
@@ -2625,20 +2092,7 @@ $EndMODULE  115
 $MODULE 116
 footprint 
 attribut virtual
-position 106.731000 125.019000  orientation 0.00
-layer front
-$PAD "1"
-Shape Rect Layer both
-position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
-drill  1.000000
-shape_offset  0.000000  0.000000
-$EndPAD
-$EndMODULE  116
-
-$MODULE 116
-footprint 
-attribut virtual
-position 106.731000 79.045000  orientation 0.00
+position 83.810000 114.605000  orientation 0.00
 layer front
 $PAD "1"
 Shape Rect Layer both
@@ -2651,20 +2105,7 @@ $EndMODULE  116
 $MODULE 117
 footprint 
 attribut virtual
-position 109.271000 79.045000  orientation 0.00
-layer front
-$PAD "1"
-Shape Rect Layer both
-position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
-drill  1.000000
-shape_offset  0.000000  0.000000
-$EndPAD
-$EndMODULE  117
-
-$MODULE 117
-footprint 
-attribut virtual
-position 109.271000 125.019000  orientation 0.00
+position 86.350000 114.605000  orientation 0.00
 layer front
 $PAD "1"
 Shape Rect Layer both
@@ -2677,20 +2118,7 @@ $EndMODULE  117
 $MODULE 118
 footprint 
 attribut virtual
-position 111.811000 125.019000  orientation 0.00
-layer front
-$PAD "1"
-Shape Rect Layer both
-position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
-drill  1.000000
-shape_offset  0.000000  0.000000
-$EndPAD
-$EndMODULE  118
-
-$MODULE 118
-footprint 
-attribut virtual
-position 111.811000 79.045000  orientation 0.00
+position 88.890000 114.605000  orientation 0.00
 layer front
 $PAD "1"
 Shape Rect Layer both
@@ -2703,20 +2131,7 @@ $EndMODULE  118
 $MODULE 119
 footprint 
 attribut virtual
-position 99.111000 117.399000  orientation 0.00
-layer front
-$PAD "1"
-Shape Rect Layer both
-position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
-drill  1.000000
-shape_offset  0.000000  0.000000
-$EndPAD
-$EndMODULE  119
-
-$MODULE 119
-footprint 
-attribut virtual
-position 83.871000 81.585000  orientation 0.00
+position 91.430000 114.605000  orientation 0.00
 layer front
 $PAD "1"
 Shape Rect Layer both
@@ -2729,20 +2144,7 @@ $EndMODULE  119
 $MODULE 120
 footprint 
 attribut virtual
-position 86.411000 81.585000  orientation 0.00
-layer front
-$PAD "1"
-Shape Rect Layer both
-position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
-drill  1.000000
-shape_offset  0.000000  0.000000
-$EndPAD
-$EndMODULE  120
-
-$MODULE 120
-footprint 
-attribut virtual
-position 101.651000 117.399000  orientation 0.00
+position 93.970000 114.605000  orientation 0.00
 layer front
 $PAD "1"
 Shape Rect Layer both
@@ -2755,20 +2157,7 @@ $EndMODULE  120
 $MODULE 121
 footprint 
 attribut virtual
-position 88.951000 81.585000  orientation 0.00
-layer front
-$PAD "1"
-Shape Rect Layer both
-position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
-drill  1.000000
-shape_offset  0.000000  0.000000
-$EndPAD
-$EndMODULE  121
-
-$MODULE 121
-footprint 
-attribut virtual
-position 104.191000 117.399000  orientation 0.00
+position 83.810000 117.145000  orientation 0.00
 layer front
 $PAD "1"
 Shape Rect Layer both
@@ -2781,20 +2170,7 @@ $EndMODULE  121
 $MODULE 122
 footprint 
 attribut virtual
-position 91.491000 81.585000  orientation 0.00
-layer front
-$PAD "1"
-Shape Rect Layer both
-position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
-drill  1.000000
-shape_offset  0.000000  0.000000
-$EndPAD
-$EndMODULE  122
-
-$MODULE 122
-footprint 
-attribut virtual
-position 106.731000 117.399000  orientation 0.00
+position 86.350000 117.145000  orientation 0.00
 layer front
 $PAD "1"
 Shape Rect Layer both
@@ -2807,20 +2183,7 @@ $EndMODULE  122
 $MODULE 123
 footprint 
 attribut virtual
-position 109.271000 117.399000  orientation 0.00
-layer front
-$PAD "1"
-Shape Rect Layer both
-position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
-drill  1.000000
-shape_offset  0.000000  0.000000
-$EndPAD
-$EndMODULE  123
-
-$MODULE 123
-footprint 
-attribut virtual
-position 94.031000 81.585000  orientation 0.00
+position 88.890000 117.145000  orientation 0.00
 layer front
 $PAD "1"
 Shape Rect Layer both
@@ -2833,20 +2196,7 @@ $EndMODULE  123
 $MODULE 124
 footprint 
 attribut virtual
-position 96.571000 81.585000  orientation 0.00
-layer front
-$PAD "1"
-Shape Rect Layer both
-position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
-drill  1.000000
-shape_offset  0.000000  0.000000
-$EndPAD
-$EndMODULE  124
-
-$MODULE 124
-footprint 
-attribut virtual
-position 111.811000 117.399000  orientation 0.00
+position 91.430000 117.145000  orientation 0.00
 layer front
 $PAD "1"
 Shape Rect Layer both
@@ -2859,7 +2209,7 @@ $EndMODULE  124
 $MODULE 125
 footprint 
 attribut virtual
-position 99.111000 81.585000  orientation 0.00
+position 93.970000 117.145000  orientation 0.00
 layer front
 $PAD "1"
 Shape Rect Layer both
@@ -2872,7 +2222,7 @@ $EndMODULE  125
 $MODULE 126
 footprint 
 attribut virtual
-position 101.651000 81.585000  orientation 0.00
+position 83.810000 119.685000  orientation 0.00
 layer front
 $PAD "1"
 Shape Rect Layer both
@@ -2885,7 +2235,7 @@ $EndMODULE  126
 $MODULE 127
 footprint 
 attribut virtual
-position 104.191000 81.585000  orientation 0.00
+position 86.350000 119.685000  orientation 0.00
 layer front
 $PAD "1"
 Shape Rect Layer both
@@ -2898,7 +2248,7 @@ $EndMODULE  127
 $MODULE 128
 footprint 
 attribut virtual
-position 106.731000 81.585000  orientation 0.00
+position 88.890000 119.685000  orientation 0.00
 layer front
 $PAD "1"
 Shape Rect Layer both
@@ -2911,7 +2261,7 @@ $EndMODULE  128
 $MODULE 129
 footprint 
 attribut virtual
-position 109.271000 81.585000  orientation 0.00
+position 91.430000 119.685000  orientation 0.00
 layer front
 $PAD "1"
 Shape Rect Layer both
@@ -2924,7 +2274,7 @@ $EndMODULE  129
 $MODULE 130
 footprint 
 attribut virtual
-position 111.811000 81.585000  orientation 0.00
+position 93.970000 119.685000  orientation 0.00
 layer front
 $PAD "1"
 Shape Rect Layer both
@@ -2934,18 +2284,616 @@ shape_offset  0.000000  0.000000
 $EndPAD
 $EndMODULE  130
 
-$MODULE GPIO45
+$MODULE 131
 footprint 
 attribut virtual
-position 98.846000 102.667000  orientation -90.00
-layer back
-$PAD "52"
-Shape Rect Layer front
-position  0.000000  0.000000  size  2.300000  0.600000  orientation 360.00
-drill  0.000000
+position 83.810000 122.225000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
 shape_offset  0.000000  0.000000
 $EndPAD
-$EndMODULE  GPIO45
+$EndMODULE  131
+
+$MODULE 132
+footprint 
+attribut virtual
+position 86.350000 122.225000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  132
+
+$MODULE 133
+footprint 
+attribut virtual
+position 88.890000 122.225000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  133
+
+$MODULE 134
+footprint 
+attribut virtual
+position 91.430000 122.225000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  134
+
+$MODULE 135
+footprint 
+attribut virtual
+position 93.970000 122.225000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  135
+
+$MODULE 136
+footprint 
+attribut virtual
+position 83.810000 124.765000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  136
+
+$MODULE 137
+footprint 
+attribut virtual
+position 86.350000 124.765000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  137
+
+$MODULE 138
+footprint 
+attribut virtual
+position 88.890000 124.765000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  138
+
+$MODULE 139
+footprint 
+attribut virtual
+position 91.430000 124.765000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  139
+
+$MODULE 140
+footprint 
+attribut virtual
+position 93.970000 124.765000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  140
+
+$MODULE 143
+footprint 
+attribut virtual
+position 96.510000 89.205000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  143
+
+$MODULE 144
+footprint 
+attribut virtual
+position 96.510000 91.745000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  144
+
+$MODULE 145
+footprint 
+attribut virtual
+position 96.510000 94.285000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  145
+
+$MODULE 146
+footprint 
+attribut virtual
+position 96.510000 106.985000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  146
+
+$MODULE 147
+footprint 
+attribut virtual
+position 96.510000 109.525000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  147
+
+$MODULE 148
+footprint 
+attribut virtual
+position 96.510000 112.065000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  148
+
+$MODULE 149
+footprint 
+attribut virtual
+position 96.510000 114.605000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  149
+
+$MODULE 150
+footprint 
+attribut virtual
+position 96.510000 117.145000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  150
+
+$MODULE 151
+footprint 
+attribut virtual
+position 96.510000 119.685000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  151
+
+$MODULE 152
+footprint 
+attribut virtual
+position 96.510000 122.225000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  152
+
+$MODULE 153
+footprint 
+attribut virtual
+position 96.510000 124.765000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  153
+
+$MODULE 154
+footprint 
+attribut virtual
+position 96.510000 96.825000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  154
+
+$MODULE 155
+footprint 
+attribut virtual
+position 99.050000 117.145000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  155
+
+$MODULE 156
+footprint 
+attribut virtual
+position 99.050000 119.685000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  156
+
+$MODULE 157
+footprint 
+attribut virtual
+position 99.050000 122.225000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  157
+
+$MODULE 158
+footprint 
+attribut virtual
+position 99.050000 124.765000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  158
+
+$MODULE 159
+footprint 
+attribut virtual
+position 96.510000 99.365000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  159
+
+$MODULE 160
+footprint 
+attribut virtual
+position 101.590000 117.145000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  160
+
+$MODULE 161
+footprint 
+attribut virtual
+position 101.590000 119.685000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  161
+
+$MODULE 162
+footprint 
+attribut virtual
+position 101.590000 122.225000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  162
+
+$MODULE 163
+footprint 
+attribut virtual
+position 101.590000 124.765000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  163
+
+$MODULE 165
+footprint 
+attribut virtual
+position 104.130000 117.145000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  165
+
+$MODULE 166
+footprint 
+attribut virtual
+position 104.130000 119.685000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  166
+
+$MODULE 167
+footprint 
+attribut virtual
+position 104.130000 122.225000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  167
+
+$MODULE 168
+footprint 
+attribut virtual
+position 104.130000 124.765000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  168
+
+$MODULE 170
+footprint 
+attribut virtual
+position 106.670000 117.145000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  170
+
+$MODULE 171
+footprint 
+attribut virtual
+position 106.670000 119.685000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  171
+
+$MODULE 172
+footprint 
+attribut virtual
+position 106.670000 122.225000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  172
+
+$MODULE 173
+footprint 
+attribut virtual
+position 106.670000 124.765000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  173
+
+$MODULE 175
+footprint 
+attribut virtual
+position 109.210000 117.145000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  175
+
+$MODULE 176
+footprint 
+attribut virtual
+position 109.210000 119.685000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  176
+
+$MODULE 177
+footprint 
+attribut virtual
+position 109.210000 122.225000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  177
+
+$MODULE 178
+footprint 
+attribut virtual
+position 109.210000 124.765000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  178
+
+$MODULE 180
+footprint 
+attribut virtual
+position 111.750000 117.145000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  180
+
+$MODULE 181
+footprint 
+attribut virtual
+position 111.750000 119.685000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  181
+
+$MODULE 182
+footprint 
+attribut virtual
+position 111.750000 122.225000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  182
+
+$MODULE 183
+footprint 
+attribut virtual
+position 111.750000 124.765000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  183
 
 $MODULE H1
 footprint MountingHole:MountingHole_5mm
@@ -2963,7 +2911,7 @@ $EndMODULE  H1
 $MODULE H2
 footprint MountingHole:MountingHole_5mm
 attribut virtual
-position 89.115000 132.500000  orientation 0.00
+position 89.205000 132.385000  orientation 0.00
 layer front
 $PAD ""
 Shape Circle Layer both
